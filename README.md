@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (today)
 - [cisagov/gh-skeleton](https://github.com/cisagov/gh-skeleton) - This extension for the gh CLI provides the ability to easily start new projects from our existing library of skeleton repositories. (1 day ago)
-- [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (2 days ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/starlink-exporter](https://github.com/felddy/starlink-exporter) -  (3 weeks ago)
 - [cisagov/cyhy-core](https://github.com/cisagov/cyhy-core) -  (3 weeks ago)
