@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/handlebars-action](https://github.com/felddy/handlebars-action) - A GitHub Action to process handlebar templates (2 days ago)
+- [felddy/handlebars-action](https://github.com/felddy/handlebars-action) - A GitHub Action to process handlebar templates (3 days ago)
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (1 week ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/issue-forms-dev](https://github.com/felddy/issue-forms-dev) - Developing forms for GitHub issues (1 week ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 5 days ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 6 days ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.270.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.270.0), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v9.269.0](https://github.com/felddy/ci-testing/releases/tag/v9.269.0), 1 week ago) - A repository for testing out continuous integration changes
 - [cisagov/samba-packer](https://github.com/cisagov/samba-packer) ([v1.0.1&#43;build.4](https://github.com/cisagov/samba-packer/releases/tag/v1.0.1%2Bbuild.4), 2 weeks ago) - Build a Samba-enabled AWS EC2 AMI.
