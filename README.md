@@ -18,9 +18,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 1 week ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 2 weeks ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.270.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.270.0), 2 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
-- [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v9.269.0](https://github.com/felddy/ci-testing/releases/tag/v9.269.0), 2 weeks ago) - A repository for testing out continuous integration changes
+- [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v9.269.0](https://github.com/felddy/ci-testing/releases/tag/v9.269.0), 3 weeks ago) - A repository for testing out continuous integration changes
 - [cisagov/samba-packer](https://github.com/cisagov/samba-packer) ([v1.0.1&#43;build.4](https://github.com/cisagov/samba-packer/releases/tag/v1.0.1%2Bbuild.4), 3 weeks ago) - Build a Samba-enabled AWS EC2 AMI.
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.8.0](https://github.com/felddy/weewx-docker/releases/tag/v4.8.0), 2 months ago) - Docker container for WeeWx weather station server
 
