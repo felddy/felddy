@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
-- [felddy/starlink-exporter](https://github.com/felddy/starlink-exporter) -  (1 week ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
+- [felddy/starlink-exporter](https://github.com/felddy/starlink-exporter) -  (2 weeks ago)
 - [felddy/handlebars-action](https://github.com/felddy/handlebars-action) - A GitHub Action to process handlebar templates (1 month ago)
 - [cisagov/join-cisagov](https://github.com/cisagov/join-cisagov) - CISA is hiring! We’re looking for candidates passionate about our mission to lead the national effort to understand and manage cyber and physical risk to our critical infrastructure. (1 month ago)
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (1 month ago)
@@ -25,7 +25,7 @@
 - [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.0.0](https://github.com/cisagov/awssh/releases/tag/v1.0.0), 4 months ago) - Tool to simplify secure shell connections over AWS simple systems manager.
 
 #### ❤️ Latest sponsors
-- [Emanuel Palm](https://github.com/PalmEmanuel) (8 months ago)
+- [Emanuel Palm](https://github.com/PalmEmanuel) (9 months ago)
 - [Shane Frasier](https://github.com/jsf9k) (1 year ago)
 
 Thanks again for your support, it is much appreciated! 🙏
