@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
-- [felddy/starlink-exporter](https://github.com/felddy/starlink-exporter) -  (1 day ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (6 days ago)
-- [felddy/ios-dive-computer](https://github.com/felddy/ios-dive-computer) - Open source, subscription-free, dive computer for the Apple Watch Ultra (6 days ago)
-- [cisagov/cyhy-hackfest-2022-09](https://github.com/cisagov/cyhy-hackfest-2022-09) -  (1 week ago)
+- [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/starlink-exporter](https://github.com/felddy/starlink-exporter) -  (2 days ago)
+- [felddy/ios-dive-computer](https://github.com/felddy/ios-dive-computer) - Open source, subscription-free, dive computer for the Apple Watch Ultra (1 week ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.285.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.285.0), 5 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
-- [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.0.2](https://github.com/cisagov/awssh/releases/tag/v1.0.2), 4 weeks ago) - Tool to simplify secure shell connections over AWS simple systems manager.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.285.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.285.0), 6 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.0.2](https://github.com/cisagov/awssh/releases/tag/v1.0.2), 1 month ago) - Tool to simplify secure shell connections over AWS simple systems manager.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 3 months ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v9.269.0](https://github.com/felddy/ci-testing/releases/tag/v9.269.0), 3 months ago) - A repository for testing out continuous integration changes
 - [cisagov/samba-packer](https://github.com/cisagov/samba-packer) ([v1.0.1&#43;build.4](https://github.com/cisagov/samba-packer/releases/tag/v1.0.1%2Bbuild.4), 3 months ago) - Build a Samba-enabled AWS EC2 AMI.
