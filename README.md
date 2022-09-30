@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisagov/join-cisagov](https://github.com/cisagov/join-cisagov) - CISA is hiring! We’re looking for candidates passionate about our mission to lead the national effort to understand and manage cyber and physical risk to our critical infrastructure. (1 day ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
+- [cisagov/join-cisagov](https://github.com/cisagov/join-cisagov) - CISA is hiring! We’re looking for candidates passionate about our mission to lead the national effort to understand and manage cyber and physical risk to our critical infrastructure. (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
 - [cisagov/cyhy-hackfest-2022-09](https://github.com/cisagov/cyhy-hackfest-2022-09) -  (1 week ago)
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (2 weeks ago)
 - [felddy/issue-forms-dev](https://github.com/felddy/issue-forms-dev) - Developing forms for GitHub issues (2 weeks ago)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [cisagov/guacscanner-docker](https://github.com/cisagov/guacscanner-docker) ([v1.1.15](https://github.com/cisagov/guacscanner-docker/releases/tag/v1.1.15), 1 day ago) - Dockerized guacscanner.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.286.1](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.286.1), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.0.2](https://github.com/cisagov/awssh/releases/tag/v1.0.2), 1 month ago) - Tool to simplify secure shell connections over AWS simple systems manager.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 3 months ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v9.269.0](https://github.com/felddy/ci-testing/releases/tag/v9.269.0), 3 months ago) - A repository for testing out continuous integration changes
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.8.0](https://github.com/felddy/weewx-docker/releases/tag/v4.8.0), 5 months ago) - Docker container for WeeWx weather station server
 
 #### ❤️ Latest sponsors
 - [Emanuel Palm](https://github.com/PalmEmanuel) (10 months ago)
