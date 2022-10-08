@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.287.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.287.0), 1 day ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.287.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.287.0), 2 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [cisagov/guacscanner-docker](https://github.com/cisagov/guacscanner-docker) ([v1.1.15](https://github.com/cisagov/guacscanner-docker/releases/tag/v1.1.15), 1 week ago) - Dockerized guacscanner.
 - [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.0.2](https://github.com/cisagov/awssh/releases/tag/v1.0.2), 1 month ago) - Tool to simplify secure shell connections over AWS simple systems manager.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 3 months ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
