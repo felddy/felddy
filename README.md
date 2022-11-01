@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
-- [cisagov/cyhy-commander-docker](https://github.com/cisagov/cyhy-commander-docker) -  (3 days ago)
-- [cisagov/ansible-role-cobalt-strike](https://github.com/cisagov/ansible-role-cobalt-strike) - An Ansible role for installing Cobalt Strike. (6 days ago)
-- [cisagov/cyhy-commander](https://github.com/cisagov/cyhy-commander) - The central brain of the Cyber Hygiene vulnerability scanner (6 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
+- [cisagov/cyhy-commander-docker](https://github.com/cisagov/cyhy-commander-docker) -  (4 days ago)
+- [cisagov/ansible-role-cobalt-strike](https://github.com/cisagov/ansible-role-cobalt-strike) - An Ansible role for installing Cobalt Strike. (1 week ago)
+- [cisagov/cyhy-commander](https://github.com/cisagov/cyhy-commander) - The central brain of the Cyber Hygiene vulnerability scanner (1 week ago)
 - [cisagov/join-cisagov](https://github.com/cisagov/join-cisagov) - CISA is hiring! We’re looking for candidates passionate about our mission to lead the national effort to understand and manage cyber and physical risk to our critical infrastructure. (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.288.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.288.0), 2 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v10.288.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v10.288.0), 3 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [cisagov/guacscanner-docker](https://github.com/cisagov/guacscanner-docker) ([v1.1.15](https://github.com/cisagov/guacscanner-docker/releases/tag/v1.1.15), 1 month ago) - Dockerized guacscanner.
 - [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.0.2](https://github.com/cisagov/awssh/releases/tag/v1.0.2), 2 months ago) - Tool to simplify secure shell connections over AWS simple systems manager.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) ([log4shell_info_20220615](https://github.com/NCSC-NL/log4shell/releases/tag/log4shell_info_20220615), 4 months ago) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
