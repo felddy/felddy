@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
 - [cisagov/cyhy-commander-docker](https://github.com/cisagov/cyhy-commander-docker) - The containerized brain of the Cyber Hygiene vulnerability scanner (1 week ago)
 - [cisagov/ansible-role-cobalt-strike](https://github.com/cisagov/ansible-role-cobalt-strike) - An Ansible role for installing Cobalt Strike. (1 week ago)
 - [cisagov/cyhy-commander](https://github.com/cisagov/cyhy-commander) - The central brain of the Cyber Hygiene vulnerability scanner (1 week ago)
@@ -25,7 +25,7 @@
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v9.269.0](https://github.com/felddy/ci-testing/releases/tag/v9.269.0), 5 months ago) - A repository for testing out continuous integration changes
 
 #### ❤️ Latest sponsors
-- [Emanuel Palm](https://github.com/PalmEmanuel) (11 months ago)
+- [Emanuel Palm](https://github.com/PalmEmanuel) (1 year ago)
 - [Shane Frasier](https://github.com/jsf9k) (2 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
