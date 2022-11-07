@@ -23,4 +23,4 @@
 Thanks again for your support, it is much appreciated! 🙏
 
 #### 🐋 My other incarnations
-- Mastodon: <a rel="me" href="https://ioc.exchange/@felddy">@felddy@ioc.exchange</a>
+- Mastodon: <a rel="me" href="https://ioc.exchange/@felddy">felddy at ioc.exchange</a>
