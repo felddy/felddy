@@ -1,85 +1,80 @@
+---
 ## more info https://github.com/crazy-max/ghaction-github-labeler
-- # automerge
-  name: ":bell: automerge"
+- name: "automerge :bell:"
   color: "8f4fbc"
   description: ""
-- # bot
-  name: ":robot: bot"
+- name: "bot :robot:"
   color: "69cde9"
   description: ""
-- # bug
-  name: ":bug: bug"
+- name: "bug :bug:"
   color: "b60205"
   description: ""
-- # dependencies
-  name: ":game_die: dependencies"
+- name: "dependencies :game_die:"
   color: "0366d6"
   description: ""
-- # documentation
-  name: ":memo: documentation"
+- name: "docker :whale:"
+  color: "0366d6"
+  description: ""
+- name: "documentation :memo:"
   color: "c5def5"
   description: ""
-- # duplicate
-  name: ":busts_in_silhouette: duplicate"
+- name: "duplicate :busts_in_silhouette:"
   color: "cccccc"
   description: ""
-- # enhancement
-  name: ":sparkles: enhancement"
+- name: "enhancement :sparkles:"
   color: "0054ca"
   description: ""
-- # feature request
-  name: ":bulb: feature request"
+- name: "feature request :bulb:"
   color: "0e8a16"
   description: ""
-- # feedback
-  name: ":mega: feedback"
+- name: "feedback :mega:"
   color: "03a9f4"
   description: ""
-- # future maybe
-  name: ":rocket: future maybe"
+- name: "future maybe :rocket:"
   color: "fef2c0"
   description: ""
-- # good first issue
-  name: ":hatching_chick: good first issue"
+- name: "github-actions :octocat:"
+  color: "43e5d0"
+  description: ""
+- name: "good first issue :hatching_chick:"
   color: "7057ff"
   description: ""
-- # help wanted
-  name: ":pray: help wanted"
+- name: "help wanted :pray:"
   color: "4caf50"
   description: ""
-- # invalid
-  name: ":no_entry_sign: invalid"
+- name: "invalid :no_entry_sign:"
   color: "e6e6e6"
   description: ""
-- # investigate
-  name: ":mag: investigate"
+- name: "investigate :mag:"
   color: "e6625b"
   description: ""
-- # needs more info
-  name: ":thinking: needs more info"
+- name: "javascript :coffee:"
+  color: "e69c4e"
+  description: ""
+- name: "needs more info :thinking:"
   color: "795548"
   description: ""
-- # pinned
-  name: ":pushpin: pinned"
+- name: "pinned :pushpin:"
   color: "28008e"
   description: ""
-- # question
-  name: ":question: question"
+- name: "python :snake:"
+  color: "52dda7"
+  description: ""
+- name: "question :question:"
   color: "3f51b5"
   description: ""
-- # sponsor
-  name: ":sparkling_heart: sponsor"
+- name: "regression :boom:"
+  color: "cd8703"
+  description: ""
+- name: "sponsor :sparkling_heart:"
   color: "fedbf0"
   description: ""
-- # stale
-  name: ":skull: stale"
+- name: "stale :skull:"
   color: "237da0"
   description: ""
-- # upstream
-  name: ":eyes: upstream"
+- name: "upstream :eyes:"
   color: "fbca04"
   description: ""
-- # wontfix
-  name: ":coffin: wontfix"
+- name: "wontfix :coffin:"
   color: "ffffff"
   description: ""
