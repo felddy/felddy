@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 - [felddy/weewx-prometheus-exporter](https://github.com/felddy/weewx-prometheus-exporter) -  (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (2 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.295.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.295.0), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.296.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.296.0), 1 day ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v1.2.3](https://github.com/felddy/ci-testing/releases/tag/v1.2.3), 3 weeks ago) - A repository for testing out continuous integration changes
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 2 months ago) - Docker container for WeeWx weather station server
 - [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.1.0](https://github.com/cisagov/awssh/releases/tag/v1.1.0), 2 months ago) - Tool to simplify secure shell connections over AWS simple systems manager.
