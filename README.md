@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
 - [cisagov/abide-terraform](https://github.com/cisagov/abide-terraform) -  (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (1 week ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 weeks ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (4 weeks ago)
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.306.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.306.0), 2 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.306.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.306.0), 3 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v1.2.3](https://github.com/felddy/ci-testing/releases/tag/v1.2.3), 3 months ago) - A repository for testing out continuous integration changes
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 5 months ago) - Docker container for WeeWx weather station server
 - [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.1.0](https://github.com/cisagov/awssh/releases/tag/v1.1.0), 5 months ago) - Tool to simplify secure shell connections over AWS simple systems manager.
