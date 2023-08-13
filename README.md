@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (3 days ago)
-- [cisagov/abide-terraform](https://github.com/cisagov/abide-terraform) -  (4 weeks ago)
-- [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (1 month ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (4 days ago)
+- [cisagov/abide-terraform](https://github.com/cisagov/abide-terraform) -  (1 month ago)
+- [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.307.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.307.0), 6 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.307.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.307.0), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v1.2.3](https://github.com/felddy/ci-testing/releases/tag/v1.2.3), 4 months ago) - A repository for testing out continuous integration changes
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 5 months ago) - Docker container for WeeWx weather station server
 - [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.1.0](https://github.com/cisagov/awssh/releases/tag/v1.1.0), 6 months ago) - Tool to simplify secure shell connections over AWS simple systems manager.
