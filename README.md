@@ -21,8 +21,8 @@
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.307.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.307.0), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v1.2.3](https://github.com/felddy/ci-testing/releases/tag/v1.2.3), 4 months ago) - A repository for testing out continuous integration changes
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 5 months ago) - Docker container for WeeWx weather station server
-- [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.1.0](https://github.com/cisagov/awssh/releases/tag/v1.1.0), 6 months ago) - Tool to simplify secure shell connections over AWS simple systems manager.
 - [cisagov/lcgit](https://github.com/cisagov/lcgit) ([v0.2.0](https://github.com/cisagov/lcgit/releases/tag/v0.2.0), 6 months ago) - A pythonic Linear Congruential Generator iterator
+- [cisagov/findings-data-import-lambda](https://github.com/cisagov/findings-data-import-lambda) ([v1.1.0](https://github.com/cisagov/findings-data-import-lambda/releases/tag/v1.1.0), 7 months ago) - AWS Lambda function for findings data import
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (2 years ago)
