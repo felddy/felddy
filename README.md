@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
-- [cisagov/cyhy-hackfest-2022-09](https://github.com/cisagov/cyhy-hackfest-2022-09) -  (1 day ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
+- [cisagov/cyhy-hackfest-2022-09](https://github.com/cisagov/cyhy-hackfest-2022-09) -  (2 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (2 weeks ago)
 - [cisagov/abide-terraform](https://github.com/cisagov/abide-terraform) -  (1 month ago)
 
