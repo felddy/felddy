@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (6 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (4 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (1 week ago)
 - [cisagov/cyhy-hackfest-2022-09](https://github.com/cisagov/cyhy-hackfest-2022-09) -  (1 week ago)
 - [cisagov/cyhy-system](https://github.com/cisagov/cyhy-system) - Cyber Hygiene system and overall documentation/issue tracking  (2 weeks ago)
 
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.308.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.308.0), 2 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v11.308.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v11.308.0), 3 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [cisagov/orchestrator](https://github.com/cisagov/orchestrator) ([v1.3.52](https://github.com/cisagov/orchestrator/releases/tag/v1.3.52), 4 months ago) - Orchestrate gatherer, scanner, saver, and trustymail_reporter
 - [felddy/ci-testing](https://github.com/felddy/ci-testing) ([v1.2.3](https://github.com/felddy/ci-testing/releases/tag/v1.2.3), 5 months ago) - A repository for testing out continuous integration changes
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 6 months ago) - Docker container for WeeWx weather station server
