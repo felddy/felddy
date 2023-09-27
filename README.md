@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (1 day ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 day ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (2 days ago)
 - [cisagov/cyhy-hackfest-2022-09](https://github.com/cisagov/cyhy-hackfest-2022-09) -  (1 week ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
-- [cisagov/cyhy-system](https://github.com/cisagov/cyhy-system) - Cyber Hygiene system and overall documentation/issue tracking  (3 weeks ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 weeks ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images
 - [felddy/weewx-prometheus-exporter](https://github.com/felddy/weewx-prometheus-exporter)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows)
 - [felddy/ios-dive-computer](https://github.com/felddy/ios-dive-computer) - Open source, subscription-free, dive computer for the Apple Watch Ultra
 - [felddy/handlebars-action](https://github.com/felddy/handlebars-action) - A GitHub Action to process handlebar templates
-- [felddy/ci-testing](https://github.com/felddy/ci-testing) - A repository for testing out continuous integration changes
 
 #### 🚀 Latest releases I've contributed to
 
