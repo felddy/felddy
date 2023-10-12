@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (1 day ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (2 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 days ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 week ago)
 - [cisagov/cyhy-hackfest-2022-09](https://github.com/cisagov/cyhy-hackfest-2022-09) -  (3 weeks ago)
 
@@ -25,7 +25,7 @@
 - [cisagov/lcgit](https://github.com/cisagov/lcgit) ([v0.2.0](https://github.com/cisagov/lcgit/releases/tag/v0.2.0), 8 months ago) - A pythonic Linear Congruential Generator iterator
 
 #### ❤️ Latest sponsors
-- [Eddie Dover](https://github.com/EddieDover) (1 day ago)
+- [Eddie Dover](https://github.com/EddieDover) (2 days ago)
 - [Shane Frasier](https://github.com/jsf9k) (2 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
