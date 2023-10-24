@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (5 days ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (5 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (5 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (6 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (6 days ago)
 - [cisagov/pshtt](https://github.com/cisagov/pshtt) - Scan domains and return data based on HTTPS best practices (1 week ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (2 weeks ago)
 
@@ -25,7 +25,7 @@
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 8 months ago) - Docker container for WeeWx weather station server
 
 #### ❤️ Latest sponsors
-- [Eddie Dover](https://github.com/EddieDover) (1 week ago)
+- [Eddie Dover](https://github.com/EddieDover) (2 weeks ago)
 - [Shane Frasier](https://github.com/jsf9k) (2 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
