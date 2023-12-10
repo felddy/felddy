@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (1 day ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (2 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals) -  (1 week ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 month ago)
 
@@ -18,9 +18,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.25-rc.1](https://github.com/cisagov/kali-packer/releases/tag/v0.5.25-rc.1), 2 days ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
-- [cisagov/teamserver-packer](https://github.com/cisagov/teamserver-packer) ([v0.3.7&#43;build.2](https://github.com/cisagov/teamserver-packer/releases/tag/v0.3.7%2Bbuild.2), 4 days ago) - Create an AMI with CobaltStrike and related tools.
-- [cisagov/orchestrator](https://github.com/cisagov/orchestrator) ([v1.3.53](https://github.com/cisagov/orchestrator/releases/tag/v1.3.53), 4 days ago) - Orchestrate gatherer, scanner, saver, and trustymail_reporter
+- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.25-rc.1](https://github.com/cisagov/kali-packer/releases/tag/v0.5.25-rc.1), 3 days ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
+- [cisagov/teamserver-packer](https://github.com/cisagov/teamserver-packer) ([v0.3.7&#43;build.2](https://github.com/cisagov/teamserver-packer/releases/tag/v0.3.7%2Bbuild.2), 5 days ago) - Create an AMI with CobaltStrike and related tools.
+- [cisagov/orchestrator](https://github.com/cisagov/orchestrator) ([v1.3.53](https://github.com/cisagov/orchestrator/releases/tag/v1.3.53), 5 days ago) - Orchestrate gatherer, scanner, saver, and trustymail_reporter
 - [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.3.8-rc.3](https://github.com/cisagov/openvpn-packer/releases/tag/v0.3.8-rc.3), 1 week ago) - Creates machine images for use as an OpenVPN gateway
 - [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.8.1-rc.2](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.8.1-rc.2), 1 week ago) - Create a Fedora-based AMI with FreeIPA server installed.
 
