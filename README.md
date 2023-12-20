@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (4 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (5 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (5 days ago)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals) -  (1 week ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 month ago)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.25](https://github.com/cisagov/kali-packer/releases/tag/v0.5.25), 1 day ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
-- [cisagov/saver](https://github.com/cisagov/saver) ([v1.3.3](https://github.com/cisagov/saver/releases/tag/v1.3.3), 1 day ago) - Save scan results to a database
-- [cisagov/guacscanner-docker](https://github.com/cisagov/guacscanner-docker) ([v1.1.18](https://github.com/cisagov/guacscanner-docker/releases/tag/v1.1.18), 1 day ago) - Dockerized guacscanner.
+- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([1.2.0-rc.1](https://github.com/cisagov/ubuntu-server-packer/releases/tag/1.2.0-rc.1), 1 day ago) - Create an Ubuntu AMI
+- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.25](https://github.com/cisagov/kali-packer/releases/tag/v0.5.25), 2 days ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
+- [cisagov/saver](https://github.com/cisagov/saver) ([v1.3.3](https://github.com/cisagov/saver/releases/tag/v1.3.3), 2 days ago) - Save scan results to a database
+- [cisagov/guacscanner-docker](https://github.com/cisagov/guacscanner-docker) ([v1.1.18](https://github.com/cisagov/guacscanner-docker/releases/tag/v1.1.18), 2 days ago) - Dockerized guacscanner.
 - [cisagov/teamserver-packer](https://github.com/cisagov/teamserver-packer) ([v0.3.7&#43;build.2](https://github.com/cisagov/teamserver-packer/releases/tag/v0.3.7%2Bbuild.2), 2 weeks ago) - Create an AMI with CobaltStrike and related tools.
-- [cisagov/orchestrator](https://github.com/cisagov/orchestrator) ([v1.3.53](https://github.com/cisagov/orchestrator/releases/tag/v1.3.53), 2 weeks ago) - Orchestrate gatherer, scanner, saver, and trustymail_reporter
 
 #### ❤️ Latest sponsors
 - [Eddie Dover](https://github.com/EddieDover) (2 months ago)
