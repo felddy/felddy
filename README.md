@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (6 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (6 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) -  (1 week ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals) -  (1 week ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 weeks ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.3.8-rc.4](https://github.com/cisagov/openvpn-packer/releases/tag/v0.3.8-rc.4), 1 day ago) - Creates machine images for use as an OpenVPN gateway
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.8.1-rc.3](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.8.1-rc.3), 1 day ago) - Create a Fedora-based AMI with FreeIPA server installed.
-- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([1.2.0-rc.1&#43;build.1](https://github.com/cisagov/ubuntu-server-packer/releases/tag/1.2.0-rc.1%2Bbuild.1), 1 day ago) - Create an Ubuntu AMI
-- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.25](https://github.com/cisagov/kali-packer/releases/tag/v0.5.25), 3 days ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
-- [cisagov/saver](https://github.com/cisagov/saver) ([v1.3.3](https://github.com/cisagov/saver/releases/tag/v1.3.3), 3 days ago) - Save scan results to a database
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v1.3.1](https://github.com/cisagov/guacscanner/releases/tag/v1.3.1), 1 day ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [cisagov/trustymail](https://github.com/cisagov/trustymail) ([v0.8.3](https://github.com/cisagov/trustymail/releases/tag/v0.8.3), 1 day ago) - Scan domains and return data based on trustworthy email best practices
+- [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.1](https://github.com/cisagov/pshtt/releases/tag/v0.7.1), 1 day ago) - Scan domains and return data based on HTTPS best practices
+- [cisagov/clamav-report](https://github.com/cisagov/clamav-report) ([v0.2.2](https://github.com/cisagov/clamav-report/releases/tag/v0.2.2), 1 day ago) - Generate reports from groups of hosts running ClamAV
+- [cisagov/ioc-scanner](https://github.com/cisagov/ioc-scanner) ([v1.5.4](https://github.com/cisagov/ioc-scanner/releases/tag/v1.5.4), 1 day ago) - Search a filesystem for indicators of compromise (IoC).
 
 #### ❤️ Latest sponsors
 - [Eddie Dover](https://github.com/EddieDover) (2 months ago)
