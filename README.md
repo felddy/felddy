@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v1.3.1](https://github.com/cisagov/guacscanner/releases/tag/v1.3.1), 1 day ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
-- [cisagov/trustymail](https://github.com/cisagov/trustymail) ([v0.8.3](https://github.com/cisagov/trustymail/releases/tag/v0.8.3), 1 day ago) - Scan domains and return data based on trustworthy email best practices
-- [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.1](https://github.com/cisagov/pshtt/releases/tag/v0.7.1), 1 day ago) - Scan domains and return data based on HTTPS best practices
-- [cisagov/clamav-report](https://github.com/cisagov/clamav-report) ([v0.2.2](https://github.com/cisagov/clamav-report/releases/tag/v0.2.2), 1 day ago) - Generate reports from groups of hosts running ClamAV
-- [cisagov/ioc-scanner](https://github.com/cisagov/ioc-scanner) ([v1.5.4](https://github.com/cisagov/ioc-scanner/releases/tag/v1.5.4), 1 day ago) - Search a filesystem for indicators of compromise (IoC).
+- [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.1.1](https://github.com/cisagov/awssh/releases/tag/v1.1.1), 1 day ago) - Tool to simplify secure shell connections over AWS simple systems manager.
+- [cisagov/aws-profile-sync](https://github.com/cisagov/aws-profile-sync) ([v1.2.1](https://github.com/cisagov/aws-profile-sync/releases/tag/v1.2.1), 1 day ago) - Synchronize AWS credential profiles from remote sources
+- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.3.8](https://github.com/cisagov/openvpn-packer/releases/tag/v0.3.8), 1 day ago) - Creates machine images for use as an OpenVPN gateway
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v1.3.1](https://github.com/cisagov/guacscanner/releases/tag/v1.3.1), 2 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [cisagov/trustymail](https://github.com/cisagov/trustymail) ([v0.8.3](https://github.com/cisagov/trustymail/releases/tag/v0.8.3), 2 days ago) - Scan domains and return data based on trustworthy email best practices
 
 #### ❤️ Latest sponsors
 - [Eddie Dover](https://github.com/EddieDover) (2 months ago)
