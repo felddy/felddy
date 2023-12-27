@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/awssh](https://github.com/cisagov/awssh) ([v1.1.1](https://github.com/cisagov/awssh/releases/tag/v1.1.1), 4 days ago) - Tool to simplify secure shell connections over AWS simple systems manager.
-- [cisagov/aws-profile-sync](https://github.com/cisagov/aws-profile-sync) ([v1.2.1](https://github.com/cisagov/aws-profile-sync/releases/tag/v1.2.1), 4 days ago) - Synchronize AWS credential profiles from remote sources
-- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.3.8](https://github.com/cisagov/openvpn-packer/releases/tag/v0.3.8), 4 days ago) - Creates machine images for use as an OpenVPN gateway
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v1.3.1](https://github.com/cisagov/guacscanner/releases/tag/v1.3.1), 5 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
-- [cisagov/trustymail](https://github.com/cisagov/trustymail) ([v0.8.3](https://github.com/cisagov/trustymail/releases/tag/v0.8.3), 5 days ago) - Scan domains and return data based on trustworthy email best practices
+- [cisagov/mongo-db-from-config](https://github.com/cisagov/mongo-db-from-config) ([v0.2.1](https://github.com/cisagov/mongo-db-from-config/releases/tag/v0.2.1), 1 day ago) - Simple library to instantiate a MongoDB database connection based on the data in a YAML configuration file
+- [cisagov/admiral](https://github.com/cisagov/admiral) ([v1.4.1](https://github.com/cisagov/admiral/releases/tag/v1.4.1), 1 day ago) - Distributed certificate transparency log harvester
+- [cisagov/assessment-data-export](https://github.com/cisagov/assessment-data-export) ([v1.2.1](https://github.com/cisagov/assessment-data-export/releases/tag/v1.2.1), 1 day ago) - Export assessment data from Jira to an AWS S3 bucket
+- [cisagov/vpn-config-gen](https://github.com/cisagov/vpn-config-gen) ([v0.2.1](https://github.com/cisagov/vpn-config-gen/releases/tag/v0.2.1), 1 day ago) - Update OpenVPN configurations file routes.
+- [cisagov/cyhy-runner](https://github.com/cisagov/cyhy-runner) ([v0.2.1](https://github.com/cisagov/cyhy-runner/releases/tag/v0.2.1), 1 day ago)
 
 #### ❤️ Latest sponsors
 - [Eddie Dover](https://github.com/EddieDover) (2 months ago)
