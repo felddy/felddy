@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/cyhy-db](https://github.com/felddy/cyhy-db) -  (6 days ago)
+- [felddy/cyhy-db](https://github.com/felddy/cyhy-db) -  (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals) -  (1 week ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
@@ -21,7 +21,7 @@
 - [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.8.2](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.8.2), 1 week ago) - Create a Fedora-based AMI with FreeIPA server installed.
 - [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.3.10](https://github.com/cisagov/openvpn-packer/releases/tag/v0.3.10), 1 week ago) - Creates machine images for use as an OpenVPN gateway
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.0](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.0), 1 week ago) - reusable workflows for GitHub Actions
-- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v0.2.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v0.2.0), 1 week ago) - Manage CyHy Operators in the production CyHy environment.
+- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v0.2.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v0.2.0), 2 weeks ago) - Manage CyHy Operators in the production CyHy environment.
 - [cisagov/action-lineage](https://github.com/cisagov/action-lineage) ([v0.2.7](https://github.com/cisagov/action-lineage/releases/tag/v0.2.7), 2 weeks ago)
 
 #### ❤️ Latest sponsors
