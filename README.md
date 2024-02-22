@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.5](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.5), 1 day ago) - Generate Trustworthy Email reports based on scan data
-- [cisagov/pshtt_reporter](https://github.com/cisagov/pshtt_reporter) ([v1.2.17](https://github.com/cisagov/pshtt_reporter/releases/tag/v1.2.17), 4 days ago) - Generate HTTPS reports based on scan data
-- [cisagov/scanner](https://github.com/cisagov/scanner) ([v1.3.7](https://github.com/cisagov/scanner/releases/tag/v1.3.7), 5 days ago) - Automated pshtt, trustymail, and sslyze scanning
-- [cisagov/gatherer](https://github.com/cisagov/gatherer) ([v1.5.18](https://github.com/cisagov/gatherer/releases/tag/v1.5.18), 5 days ago) - Gather domains as a precursor to scanning
+- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.5](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.5), 2 days ago) - Generate Trustworthy Email reports based on scan data
+- [cisagov/pshtt_reporter](https://github.com/cisagov/pshtt_reporter) ([v1.2.17](https://github.com/cisagov/pshtt_reporter/releases/tag/v1.2.17), 5 days ago) - Generate HTTPS reports based on scan data
+- [cisagov/scanner](https://github.com/cisagov/scanner) ([v1.3.7](https://github.com/cisagov/scanner/releases/tag/v1.3.7), 6 days ago) - Automated pshtt, trustymail, and sslyze scanning
+- [cisagov/gatherer](https://github.com/cisagov/gatherer) ([v1.5.18](https://github.com/cisagov/gatherer/releases/tag/v1.5.18), 6 days ago) - Gather domains as a precursor to scanning
 - [cisagov/saver](https://github.com/cisagov/saver) ([v1.3.5](https://github.com/cisagov/saver/releases/tag/v1.3.5), 1 week ago) - Save scan results to a database
 
 #### ❤️ Latest sponsors
