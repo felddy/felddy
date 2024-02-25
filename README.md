@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (2 days ago)
+- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (3 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/saver](https://github.com/cisagov/saver) ([v1.3.6-rc.2](https://github.com/cisagov/saver/releases/tag/v1.3.6-rc.2), 1 day ago) - Save scan results to a database
-- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.5](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.5), 4 days ago) - Generate Trustworthy Email reports based on scan data
+- [cisagov/saver](https://github.com/cisagov/saver) ([v1.3.6-rc.2](https://github.com/cisagov/saver/releases/tag/v1.3.6-rc.2), 2 days ago) - Save scan results to a database
+- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.5](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.5), 5 days ago) - Generate Trustworthy Email reports based on scan data
 - [cisagov/pshtt_reporter](https://github.com/cisagov/pshtt_reporter) ([v1.2.17](https://github.com/cisagov/pshtt_reporter/releases/tag/v1.2.17), 1 week ago) - Generate HTTPS reports based on scan data
 - [cisagov/scanner](https://github.com/cisagov/scanner) ([v1.3.7](https://github.com/cisagov/scanner/releases/tag/v1.3.7), 1 week ago) - Automated pshtt, trustymail, and sslyze scanning
 - [cisagov/gatherer](https://github.com/cisagov/gatherer) ([v1.5.18](https://github.com/cisagov/gatherer/releases/tag/v1.5.18), 1 week ago) - Gather domains as a precursor to scanning
