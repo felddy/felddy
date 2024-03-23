@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (2 days ago)
+- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (3 days ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.26](https://github.com/cisagov/kali-packer/releases/tag/v0.5.26), 1 day ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
-- [cisagov/teamserver-packer](https://github.com/cisagov/teamserver-packer) ([v0.4.0](https://github.com/cisagov/teamserver-packer/releases/tag/v0.4.0), 2 days ago) - Create an AMI with CobaltStrike and related tools.
-- [cisagov/pca-gophish-composition-packer](https://github.com/cisagov/pca-gophish-composition-packer) ([v0.5.0](https://github.com/cisagov/pca-gophish-composition-packer/releases/tag/v0.5.0), 2 days ago) - Create machine images that include cisagov/pca-gophish-composition
-- [cisagov/docker-packer](https://github.com/cisagov/docker-packer) ([v0.2.0](https://github.com/cisagov/docker-packer/releases/tag/v0.2.0), 2 days ago) - Create an AMI with Docker installed
-- [cisagov/egress-assess-packer](https://github.com/cisagov/egress-assess-packer) ([v1.1.0](https://github.com/cisagov/egress-assess-packer/releases/tag/v1.1.0), 2 days ago) - Create an AMI with the Egress-Assess egress data detection tool.
+- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.0-rc.2](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.0-rc.2), 1 day ago) - Create a Fedora-based AMI with FreeIPA server installed.
+- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.26](https://github.com/cisagov/kali-packer/releases/tag/v0.5.26), 2 days ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
+- [cisagov/teamserver-packer](https://github.com/cisagov/teamserver-packer) ([v0.4.0](https://github.com/cisagov/teamserver-packer/releases/tag/v0.4.0), 3 days ago) - Create an AMI with CobaltStrike and related tools.
+- [cisagov/pca-gophish-composition-packer](https://github.com/cisagov/pca-gophish-composition-packer) ([v0.5.0](https://github.com/cisagov/pca-gophish-composition-packer/releases/tag/v0.5.0), 3 days ago) - Create machine images that include cisagov/pca-gophish-composition
+- [cisagov/docker-packer](https://github.com/cisagov/docker-packer) ([v0.2.0](https://github.com/cisagov/docker-packer/releases/tag/v0.2.0), 3 days ago) - Create an AMI with Docker installed
 
 #### ❤️ Latest sponsors
 - [Eddie Dover](https://github.com/EddieDover) (5 months ago)
