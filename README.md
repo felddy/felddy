@@ -6,7 +6,7 @@
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (2 weeks ago)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (2 weeks ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
