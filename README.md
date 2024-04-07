@@ -25,7 +25,7 @@
 - [cisagov/pca-gophish-composition-packer](https://github.com/cisagov/pca-gophish-composition-packer) ([v0.5.0](https://github.com/cisagov/pca-gophish-composition-packer/releases/tag/v0.5.0), 2 weeks ago) - Create machine images that include cisagov/pca-gophish-composition
 
 #### ❤️ Latest sponsors
-- [Eddie Dover](https://github.com/EddieDover) (5 months ago)
+- [Eddie Dover](https://github.com/EddieDover) (6 months ago)
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
