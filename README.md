@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 weeks ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 day ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (3 weeks ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 month ago)
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/vdp-scanner-docker](https://github.com/cisagov/vdp-scanner-docker) ([0.2.0-dev.4](https://github.com/cisagov/vdp-scanner-docker/releases/tag/0.2.0-dev.4), 3 days ago) - Docker image to run VDP scanning.
-- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.3.0](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.3.0), 2 weeks ago) - Create an Ubuntu AMI
+- [cisagov/vdp-scanner-docker](https://github.com/cisagov/vdp-scanner-docker) ([0.2.0-dev.4](https://github.com/cisagov/vdp-scanner-docker/releases/tag/0.2.0-dev.4), 4 days ago) - Docker image to run VDP scanning.
+- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.3.0](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.3.0), 3 weeks ago) - Create an Ubuntu AMI
 - [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.0](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.0), 3 weeks ago) - Create a Fedora-based AMI with FreeIPA server installed.
 - [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.26](https://github.com/cisagov/kali-packer/releases/tag/v0.5.26), 3 weeks ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
 - [cisagov/teamserver-packer](https://github.com/cisagov/teamserver-packer) ([v0.4.0](https://github.com/cisagov/teamserver-packer/releases/tag/v0.4.0), 3 weeks ago) - Create an AMI with CobaltStrike and related tools.
