@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (3 days ago)
-- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (1 week ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (4 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
-- [felddy/cyhy-config](https://github.com/felddy/cyhy-config) -  (2 weeks ago)
+- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (1 week ago)
+- [felddy/cyhy-config](https://github.com/felddy/cyhy-config) -  (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/terraformer-packer](https://github.com/cisagov/terraformer-packer) ([v0.1.1-rc.1](https://github.com/cisagov/terraformer-packer/releases/tag/v0.1.1-rc.1), 1 day ago) - Create an AMI that can be used to deploy AWS resources via Terraform.
-- [cisagov/samba-packer](https://github.com/cisagov/samba-packer) ([v1.1.1-rc.1](https://github.com/cisagov/samba-packer/releases/tag/v1.1.1-rc.1), 1 day ago) - Build a Samba-enabled AWS EC2 AMI.
-- [cisagov/debian-packer](https://github.com/cisagov/debian-packer) ([v0.2.1-rc.1](https://github.com/cisagov/debian-packer/releases/tag/v0.2.1-rc.1), 1 day ago) - Create a Debian AMI
-- [cisagov/guacamole-packer](https://github.com/cisagov/guacamole-packer) ([v1.3.1-rc.1](https://github.com/cisagov/guacamole-packer/releases/tag/v1.3.1-rc.1), 1 day ago) - Create machine images containing the Guacamole remote desktop gateway
-- [cisagov/skeleton-packer](https://github.com/cisagov/skeleton-packer) ([v1.0.1](https://github.com/cisagov/skeleton-packer/releases/tag/v1.0.1), 1 day ago) - A skeleton project for quickly getting a new cisagov packer project started.
+- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.1-rc.1](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.1-rc.1), 1 day ago) - Create a Fedora-based AMI with FreeIPA server installed.
+- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.4.1-rc.1](https://github.com/cisagov/openvpn-packer/releases/tag/v0.4.1-rc.1), 1 day ago) - Creates machine images for use as an OpenVPN gateway
+- [cisagov/pca-gophish-composition-packer](https://github.com/cisagov/pca-gophish-composition-packer) ([v0.5.1-rc.1](https://github.com/cisagov/pca-gophish-composition-packer/releases/tag/v0.5.1-rc.1), 1 day ago) - Create machine images that include cisagov/pca-gophish-composition
+- [cisagov/docker-packer](https://github.com/cisagov/docker-packer) ([v0.2.1-rc.1](https://github.com/cisagov/docker-packer/releases/tag/v0.2.1-rc.1), 1 day ago) - Create an AMI with Docker installed
+- [cisagov/assessor-workbench-packer](https://github.com/cisagov/assessor-workbench-packer) ([v0.1.1-rc.1](https://github.com/cisagov/assessor-workbench-packer/releases/tag/v0.1.1-rc.1), 1 day ago) - Create an AMI with the Assessor Workbench and related tools.
 
 #### ❤️ Latest sponsors
 - [Eddie Dover](https://github.com/EddieDover) (7 months ago)
