@@ -4,8 +4,8 @@
 
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 weeks ago)
-- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (3 weeks ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 weeks ago)
+- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (4 weeks ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (4 weeks ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.3.1](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.3.1), 1 day ago) - Create an Ubuntu AMI
+- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.3.1](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.3.1), 2 days ago) - Create an Ubuntu AMI
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.327.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.327.0), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
-- [cisagov/publish-egress-ip-lambda](https://github.com/cisagov/publish-egress-ip-lambda) ([v1.0.0](https://github.com/cisagov/publish-egress-ip-lambda/releases/tag/v1.0.0), 2 weeks ago) - A Lambda function that scans a set of AWS accounts and publishes file(s) (to an S3 bucket) containing the public IP addresses of EC2 instances or Elastic IPs that have been properly tagged
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.10.0-rc.1](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.10.0-rc.1), 2 weeks ago) - Create a Fedora-based AMI with FreeIPA server installed.
+- [cisagov/publish-egress-ip-lambda](https://github.com/cisagov/publish-egress-ip-lambda) ([v1.0.0](https://github.com/cisagov/publish-egress-ip-lambda/releases/tag/v1.0.0), 3 weeks ago) - A Lambda function that scans a set of AWS accounts and publishes file(s) (to an S3 bucket) containing the public IP addresses of EC2 instances or Elastic IPs that have been properly tagged
+- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.10.0-rc.1](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.10.0-rc.1), 3 weeks ago) - Create a Fedora-based AMI with FreeIPA server installed.
 - [cisagov/saver](https://github.com/cisagov/saver) ([v1.3.7](https://github.com/cisagov/saver/releases/tag/v1.3.7), 3 weeks ago) - Save scan results to a database
 
 #### ❤️ Latest sponsors
