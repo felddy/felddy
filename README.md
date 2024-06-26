@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.4.0](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.4.0), 1 day ago) - Create an Ubuntu AMI
-- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.6-rc.1](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.6-rc.1), 2 days ago) - Generate Trustworthy Email reports based on scan data
+- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.4.0](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.4.0), 2 days ago) - Create an Ubuntu AMI
+- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.6-rc.1](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.6-rc.1), 3 days ago) - Generate Trustworthy Email reports based on scan data
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.327.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.327.0), 2 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [cisagov/publish-egress-ip-lambda](https://github.com/cisagov/publish-egress-ip-lambda) ([v1.0.0](https://github.com/cisagov/publish-egress-ip-lambda/releases/tag/v1.0.0), 3 weeks ago) - A Lambda function that scans a set of AWS accounts and publishes file(s) (to an S3 bucket) containing the public IP addresses of EC2 instances or Elastic IPs that have been properly tagged
 - [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.10.0-rc.1](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.10.0-rc.1), 3 weeks ago) - Create a Fedora-based AMI with FreeIPA server installed.
