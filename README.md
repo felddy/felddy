@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 days ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (1 month ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 month ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 month ago)
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.328.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.328.0), 2 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
-- [cisagov/orchestrator](https://github.com/cisagov/orchestrator) ([v1.3.57](https://github.com/cisagov/orchestrator/releases/tag/v1.3.57), 4 days ago) - Orchestrate gatherer, scanner, saver, and trustymail_reporter
-- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.6](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.6), 4 days ago) - Generate Trustworthy Email reports based on scan data
-- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.4.0](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.4.0), 6 days ago) - Create an Ubuntu AMI
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.328.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.328.0), 3 days ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [cisagov/orchestrator](https://github.com/cisagov/orchestrator) ([v1.3.57](https://github.com/cisagov/orchestrator/releases/tag/v1.3.57), 5 days ago) - Orchestrate gatherer, scanner, saver, and trustymail_reporter
+- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.6](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.6), 5 days ago) - Generate Trustworthy Email reports based on scan data
+- [cisagov/ubuntu-server-packer](https://github.com/cisagov/ubuntu-server-packer) ([v1.4.0](https://github.com/cisagov/ubuntu-server-packer/releases/tag/v1.4.0), 1 week ago) - Create an Ubuntu AMI
 - [cisagov/publish-egress-ip-lambda](https://github.com/cisagov/publish-egress-ip-lambda) ([v1.0.0](https://github.com/cisagov/publish-egress-ip-lambda/releases/tag/v1.0.0), 1 month ago) - A Lambda function that scans a set of AWS accounts and publishes file(s) (to an S3 bucket) containing the public IP addresses of EC2 instances or Elastic IPs that have been properly tagged
 
 #### ❤️ Latest sponsors
