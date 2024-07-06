@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.4.2&#43;build.2](https://github.com/cisagov/openvpn-packer/releases/tag/v0.4.2%2Bbuild.2), 2 days ago) - Creates machine images for use as an OpenVPN gateway
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.2&#43;build.1](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.2%2Bbuild.1), 3 days ago) - Create a Fedora-based AMI with FreeIPA server installed.
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.328.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.328.0), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
-- [cisagov/orchestrator](https://github.com/cisagov/orchestrator) ([v1.3.57](https://github.com/cisagov/orchestrator/releases/tag/v1.3.57), 1 week ago) - Orchestrate gatherer, scanner, saver, and trustymail_reporter
-- [cisagov/trustymail_reporter](https://github.com/cisagov/trustymail_reporter) ([v1.5.6](https://github.com/cisagov/trustymail_reporter/releases/tag/v1.5.6), 1 week ago) - Generate Trustworthy Email reports based on scan data
+- [cisagov/debian-packer](https://github.com/cisagov/debian-packer) ([v1.0.0-rc.1](https://github.com/cisagov/debian-packer/releases/tag/v1.0.0-rc.1), 1 day ago) - Create a Debian AMI
+- [cisagov/terraformer-packer](https://github.com/cisagov/terraformer-packer) ([v1.0.0-rc.1](https://github.com/cisagov/terraformer-packer/releases/tag/v1.0.0-rc.1), 1 day ago) - Create an AMI that can be used to deploy AWS resources via Terraform.
+- [cisagov/samba-packer](https://github.com/cisagov/samba-packer) ([v2.0.0-rc.1](https://github.com/cisagov/samba-packer/releases/tag/v2.0.0-rc.1), 1 day ago) - Build a Samba-enabled AWS EC2 AMI.
+- [cisagov/guacamole-packer](https://github.com/cisagov/guacamole-packer) ([v2.0.0-rc.1](https://github.com/cisagov/guacamole-packer/releases/tag/v2.0.0-rc.1), 1 day ago) - Create machine images containing the Guacamole remote desktop gateway
+- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.4.2&#43;build.2](https://github.com/cisagov/openvpn-packer/releases/tag/v0.4.2%2Bbuild.2), 3 days ago) - Creates machine images for use as an OpenVPN gateway
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
