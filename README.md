@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 day ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 days ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (1 month ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 month ago)
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.2&#43;build.2](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.2%2Bbuild.2), 1 day ago) - Create a Fedora-based AMI with FreeIPA server installed.
-- [cisagov/terraformer-packer](https://github.com/cisagov/terraformer-packer) ([v1.0.0-rc.2](https://github.com/cisagov/terraformer-packer/releases/tag/v1.0.0-rc.2), 2 days ago) - Create an AMI that can be used to deploy AWS resources via Terraform.
-- [cisagov/debian-packer](https://github.com/cisagov/debian-packer) ([v1.0.0-rc.1](https://github.com/cisagov/debian-packer/releases/tag/v1.0.0-rc.1), 5 days ago) - Create a Debian AMI
-- [cisagov/samba-packer](https://github.com/cisagov/samba-packer) ([v2.0.0-rc.1](https://github.com/cisagov/samba-packer/releases/tag/v2.0.0-rc.1), 5 days ago) - Build a Samba-enabled AWS EC2 AMI.
-- [cisagov/guacamole-packer](https://github.com/cisagov/guacamole-packer) ([v2.0.0-rc.1](https://github.com/cisagov/guacamole-packer/releases/tag/v2.0.0-rc.1), 5 days ago) - Create machine images containing the Guacamole remote desktop gateway
+- [cisagov/nessus-packer](https://github.com/cisagov/nessus-packer) ([v1.0.0-rc.2](https://github.com/cisagov/nessus-packer/releases/tag/v1.0.0-rc.2), 1 day ago) - Create machine images containing the Nessus vulnerability scanner
+- [cisagov/skeleton-packer](https://github.com/cisagov/skeleton-packer) ([v2.0.0-rc.1](https://github.com/cisagov/skeleton-packer/releases/tag/v2.0.0-rc.1), 1 day ago) - A skeleton project for quickly getting a new cisagov packer project started.
+- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.2&#43;build.2](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.2%2Bbuild.2), 2 days ago) - Create a Fedora-based AMI with FreeIPA server installed.
+- [cisagov/terraformer-packer](https://github.com/cisagov/terraformer-packer) ([v1.0.0-rc.2](https://github.com/cisagov/terraformer-packer/releases/tag/v1.0.0-rc.2), 3 days ago) - Create an AMI that can be used to deploy AWS resources via Terraform.
+- [cisagov/debian-packer](https://github.com/cisagov/debian-packer) ([v1.0.0-rc.1](https://github.com/cisagov/debian-packer/releases/tag/v1.0.0-rc.1), 6 days ago) - Create a Debian AMI
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
