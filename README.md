@@ -22,7 +22,7 @@
 - [cisagov/skeleton-packer](https://github.com/cisagov/skeleton-packer) ([v2.0.0-rc.1](https://github.com/cisagov/skeleton-packer/releases/tag/v2.0.0-rc.1), 1 week ago) - A skeleton project for quickly getting a new cisagov packer project started.
 - [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.2&#43;build.2](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.2%2Bbuild.2), 1 week ago) - Create a Fedora-based AMI with FreeIPA server installed.
 - [cisagov/terraformer-packer](https://github.com/cisagov/terraformer-packer) ([v1.0.0-rc.2](https://github.com/cisagov/terraformer-packer/releases/tag/v1.0.0-rc.2), 1 week ago) - Create an AMI that can be used to deploy AWS resources via Terraform.
-- [cisagov/debian-packer](https://github.com/cisagov/debian-packer) ([v1.0.0-rc.1](https://github.com/cisagov/debian-packer/releases/tag/v1.0.0-rc.1), 1 week ago) - Create a Debian AMI
+- [cisagov/debian-packer](https://github.com/cisagov/debian-packer) ([v1.0.0-rc.1](https://github.com/cisagov/debian-packer/releases/tag/v1.0.0-rc.1), 2 weeks ago) - Create a Debian AMI
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
