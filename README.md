@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/mongo-db-from-config](https://github.com/cisagov/mongo-db-from-config) ([v1.0.0](https://github.com/cisagov/mongo-db-from-config/releases/tag/v1.0.0), 6 days ago) - Simple library to instantiate a MongoDB database connection based on the data in a YAML configuration file
-- [cisagov/skeleton-python-library](https://github.com/cisagov/skeleton-python-library) ([v0.2.1](https://github.com/cisagov/skeleton-python-library/releases/tag/v0.2.1), 1 week ago) - A skeleton project for quickly getting a new cisagov Python library started.
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.330.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.330.0), 1 week ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.3-rc.1](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.3-rc.1), 2 weeks ago) - Create a Fedora-based AMI with FreeIPA server installed.
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.5](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.5), 2 weeks ago) - reusable workflows for GitHub Actions
+- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v1.0.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v1.0.0), 1 day ago) - Manage CyHy Operators in the production CyHy environment.
+- [cisagov/cyhy-runner](https://github.com/cisagov/cyhy-runner) ([v1.0.0](https://github.com/cisagov/cyhy-runner/releases/tag/v1.0.0), 1 day ago)
+- [cisagov/vpn-config-gen](https://github.com/cisagov/vpn-config-gen) ([v1.0.0](https://github.com/cisagov/vpn-config-gen/releases/tag/v1.0.0), 1 day ago) - Update OpenVPN configurations file routes.
+- [cisagov/lcgit](https://github.com/cisagov/lcgit) ([v1.0.0](https://github.com/cisagov/lcgit/releases/tag/v1.0.0), 1 day ago) - A pythonic Linear Congruential Generator iterator
+- [cisagov/aws-profile-sync](https://github.com/cisagov/aws-profile-sync) ([v2.0.0](https://github.com/cisagov/aws-profile-sync/releases/tag/v2.0.0), 1 day ago) - Synchronize AWS credential profiles from remote sources
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
