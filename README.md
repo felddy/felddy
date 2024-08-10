@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/action-apb-dashboard](https://github.com/cisagov/action-apb-dashboard) ([v1.0.0](https://github.com/cisagov/action-apb-dashboard/releases/tag/v1.0.0), 2 days ago)
-- [cisagov/action-lineage](https://github.com/cisagov/action-lineage) ([v1.0.0](https://github.com/cisagov/action-lineage/releases/tag/v1.0.0), 2 days ago)
-- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v1.0.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v1.0.0), 3 days ago) - Manage CyHy Operators in the production CyHy environment.
-- [cisagov/cyhy-runner](https://github.com/cisagov/cyhy-runner) ([v1.0.0](https://github.com/cisagov/cyhy-runner/releases/tag/v1.0.0), 3 days ago)
-- [cisagov/vpn-config-gen](https://github.com/cisagov/vpn-config-gen) ([v1.0.0](https://github.com/cisagov/vpn-config-gen/releases/tag/v1.0.0), 3 days ago) - Update OpenVPN configurations file routes.
+- [cisagov/action-apb-dashboard](https://github.com/cisagov/action-apb-dashboard) ([v1.0.0](https://github.com/cisagov/action-apb-dashboard/releases/tag/v1.0.0), 3 days ago)
+- [cisagov/action-lineage](https://github.com/cisagov/action-lineage) ([v1.0.0](https://github.com/cisagov/action-lineage/releases/tag/v1.0.0), 3 days ago)
+- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v1.0.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v1.0.0), 4 days ago) - Manage CyHy Operators in the production CyHy environment.
+- [cisagov/cyhy-runner](https://github.com/cisagov/cyhy-runner) ([v1.0.0](https://github.com/cisagov/cyhy-runner/releases/tag/v1.0.0), 4 days ago)
+- [cisagov/vpn-config-gen](https://github.com/cisagov/vpn-config-gen) ([v1.0.0](https://github.com/cisagov/vpn-config-gen/releases/tag/v1.0.0), 4 days ago) - Update OpenVPN configurations file routes.
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
