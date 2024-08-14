@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.3](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.3), 1 day ago) - Create a Fedora-based AMI with FreeIPA server installed.
-- [cisagov/skeleton-packer](https://github.com/cisagov/skeleton-packer) ([v2.0.0](https://github.com/cisagov/skeleton-packer/releases/tag/v2.0.0), 1 day ago) - A skeleton project for quickly getting a new cisagov packer project started.
-- [cisagov/action-apb-dashboard](https://github.com/cisagov/action-apb-dashboard) ([v1.0.0](https://github.com/cisagov/action-apb-dashboard/releases/tag/v1.0.0), 6 days ago)
-- [cisagov/action-lineage](https://github.com/cisagov/action-lineage) ([v1.0.0](https://github.com/cisagov/action-lineage/releases/tag/v1.0.0), 6 days ago)
-- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v1.0.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v1.0.0), 1 week ago) - Manage CyHy Operators in the production CyHy environment.
+- [cisagov/debian-packer](https://github.com/cisagov/debian-packer) ([v0.3.0-rc.1](https://github.com/cisagov/debian-packer/releases/tag/v0.3.0-rc.1), 1 day ago) - Create a Debian AMI
+- [cisagov/samba-packer](https://github.com/cisagov/samba-packer) ([v1.2.0-rc.1](https://github.com/cisagov/samba-packer/releases/tag/v1.2.0-rc.1), 1 day ago) - Build a Samba-enabled AWS EC2 AMI.
+- [cisagov/terraformer-packer](https://github.com/cisagov/terraformer-packer) ([v0.2.0-rc.1](https://github.com/cisagov/terraformer-packer/releases/tag/v0.2.0-rc.1), 1 day ago) - Create an AMI that can be used to deploy AWS resources via Terraform.
+- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.3](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.3), 2 days ago) - Create a Fedora-based AMI with FreeIPA server installed.
+- [cisagov/skeleton-packer](https://github.com/cisagov/skeleton-packer) ([v2.0.0](https://github.com/cisagov/skeleton-packer/releases/tag/v2.0.0), 2 days ago) - A skeleton project for quickly getting a new cisagov packer project started.
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
