@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (2 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 weeks ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (2 months ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 months ago)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/windows-server-packer](https://github.com/cisagov/windows-server-packer) ([v0.2.4-rc.1](https://github.com/cisagov/windows-server-packer/releases/tag/v0.2.4-rc.1), 1 day ago)
-- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.4.3-rc.1](https://github.com/cisagov/openvpn-packer/releases/tag/v0.4.3-rc.1), 1 day ago) - Creates machine images for use as an OpenVPN gateway
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.4-rc.1](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.4-rc.1), 1 day ago) - Create a Fedora-based AMI with FreeIPA server installed.
-- [cisagov/egress-assess-packer](https://github.com/cisagov/egress-assess-packer) ([v1.1.2](https://github.com/cisagov/egress-assess-packer/releases/tag/v1.1.2), 1 day ago) - Create an AMI with the Egress-Assess egress data detection tool.
-- [cisagov/guacamole-packer](https://github.com/cisagov/guacamole-packer) ([v1.3.2](https://github.com/cisagov/guacamole-packer/releases/tag/v1.3.2), 1 day ago) - Create machine images containing the Guacamole remote desktop gateway
+- [cisagov/assessor-workbench-packer](https://github.com/cisagov/assessor-workbench-packer) ([v0.1.2](https://github.com/cisagov/assessor-workbench-packer/releases/tag/v0.1.2), 1 day ago) - Create an AMI with the Assessor Workbench and related tools.
+- [cisagov/pca-gophish-composition-packer](https://github.com/cisagov/pca-gophish-composition-packer) ([v0.5.2](https://github.com/cisagov/pca-gophish-composition-packer/releases/tag/v0.5.2), 1 day ago) - Create machine images that include cisagov/pca-gophish-composition
+- [cisagov/windows-commando-vm-packer](https://github.com/cisagov/windows-commando-vm-packer) ([v1.1.2](https://github.com/cisagov/windows-commando-vm-packer/releases/tag/v1.1.2), 1 day ago) - Windows Commando VM Packer
+- [cisagov/nessus-packer](https://github.com/cisagov/nessus-packer) ([v0.2.2](https://github.com/cisagov/nessus-packer/releases/tag/v0.2.2), 1 day ago) - Create machine images containing the Nessus vulnerability scanner
+- [cisagov/windows-server-packer](https://github.com/cisagov/windows-server-packer) ([v0.2.4](https://github.com/cisagov/windows-server-packer/releases/tag/v0.2.4), 1 day ago)
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
