@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.28](https://github.com/cisagov/kali-packer/releases/tag/v0.5.28), 1 day ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
-- [cisagov/nessus-packer](https://github.com/cisagov/nessus-packer) ([v1.0.0-rc.2](https://github.com/cisagov/nessus-packer/releases/tag/v1.0.0-rc.2), 1 day ago) - Create machine images containing the Nessus vulnerability scanner
-- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v0.4.3](https://github.com/cisagov/openvpn-packer/releases/tag/v0.4.3), 1 day ago) - Creates machine images for use as an OpenVPN gateway
-- [cisagov/assessor-workbench-packer](https://github.com/cisagov/assessor-workbench-packer) ([v0.1.2](https://github.com/cisagov/assessor-workbench-packer/releases/tag/v0.1.2), 6 days ago) - Create an AMI with the Assessor Workbench and related tools.
-- [cisagov/pca-gophish-composition-packer](https://github.com/cisagov/pca-gophish-composition-packer) ([v0.5.2](https://github.com/cisagov/pca-gophish-composition-packer/releases/tag/v0.5.2), 6 days ago) - Create machine images that include cisagov/pca-gophish-composition
+- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v1.0.0-rc.1](https://github.com/cisagov/openvpn-packer/releases/tag/v1.0.0-rc.1), 1 day ago) - Creates machine images for use as an OpenVPN gateway
+- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.28](https://github.com/cisagov/kali-packer/releases/tag/v0.5.28), 2 days ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
+- [cisagov/nessus-packer](https://github.com/cisagov/nessus-packer) ([v1.0.0-rc.2](https://github.com/cisagov/nessus-packer/releases/tag/v1.0.0-rc.2), 2 days ago) - Create machine images containing the Nessus vulnerability scanner
+- [cisagov/assessor-workbench-packer](https://github.com/cisagov/assessor-workbench-packer) ([v0.1.2](https://github.com/cisagov/assessor-workbench-packer/releases/tag/v0.1.2), 1 week ago) - Create an AMI with the Assessor Workbench and related tools.
+- [cisagov/pca-gophish-composition-packer](https://github.com/cisagov/pca-gophish-composition-packer) ([v0.5.2](https://github.com/cisagov/pca-gophish-composition-packer/releases/tag/v0.5.2), 1 week ago) - Create machine images that include cisagov/pca-gophish-composition
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
