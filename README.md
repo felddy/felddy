@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (3 days ago)
-- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library (4 days ago)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (5 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library (5 days ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (6 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 month ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (3 months ago)
 
@@ -18,11 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/pca-gophish-composition](https://github.com/cisagov/pca-gophish-composition) ([v0.5.1](https://github.com/cisagov/pca-gophish-composition/releases/tag/v0.5.1), 4 days ago) - Phishing campaign docker composition for Gophish
-- [cisagov/nessus-packer](https://github.com/cisagov/nessus-packer) ([v1.0.0](https://github.com/cisagov/nessus-packer/releases/tag/v1.0.0), 5 days ago) - Create machine images containing the Nessus vulnerability scanner
-- [cisagov/openvpn-packer](https://github.com/cisagov/openvpn-packer) ([v1.0.0](https://github.com/cisagov/openvpn-packer/releases/tag/v1.0.0), 1 week ago) - Creates machine images for use as an OpenVPN gateway
-- [cisagov/freeipa-server-packer](https://github.com/cisagov/freeipa-server-packer) ([v0.9.4](https://github.com/cisagov/freeipa-server-packer/releases/tag/v0.9.4), 1 week ago) - Create a Fedora-based AMI with FreeIPA server installed.
-- [cisagov/kali-packer](https://github.com/cisagov/kali-packer) ([v0.5.28](https://github.com/cisagov/kali-packer/releases/tag/v0.5.28), 1 week ago) - This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.331.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.331.0), 2 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.5](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.5), 1 month ago) - reusable workflows for GitHub Actions
+- [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.1](https://github.com/cisagov/pshtt/releases/tag/v0.7.1), 8 months ago) - Scan domains and return data based on HTTPS best practices
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 2 years ago) - Docker container for WeeWx weather station server
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
