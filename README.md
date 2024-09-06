@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.331.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.331.0), 2 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v12.331.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v12.331.0), 3 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.5](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.5), 1 month ago) - reusable workflows for GitHub Actions
 - [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.1](https://github.com/cisagov/pshtt/releases/tag/v0.7.1), 8 months ago) - Scan domains and return data based on HTTPS best practices
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v4.10.2](https://github.com/felddy/weewx-docker/releases/tag/v4.10.2), 2 years ago) - Docker container for WeeWx weather station server
