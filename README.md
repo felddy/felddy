@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) -  (2 days ago)
+- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) -  (3 days ago)
 - [felddy/3d-printing](https://github.com/felddy/3d-printing) - A collection of 3d printing models (1 week ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 weeks ago)
 - [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library (1 month ago)
 - [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (1 month ago)
 
