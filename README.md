@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (5 days ago)
+- [cisagov/gh-skeleton](https://github.com/cisagov/gh-skeleton) - This extension for the gh CLI provides the ability to easily start new projects from our existing library of skeleton repositories. (1 day ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (6 days ago)
 - [cisagov/cyhy-config](https://github.com/cisagov/cyhy-config) - A library to locate, parse, and validate Cyber Hygiene configuration files (1 week ago)
 - [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) -  (3 weeks ago)
 - [felddy/3d-printing](https://github.com/felddy/3d-printing) - A collection of 3d printing models (1 month ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
