@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
-- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) -  (4 days ago)
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database (4 days ago)
-- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library (4 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (5 days ago)
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database (5 days ago)
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library (5 days ago)
+- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) -  (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.6](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.6), 3 days ago) - reusable workflows for GitHub Actions
-- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.0.0), 4 days ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
-- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.0.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.0.0), 4 days ago)
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v1.0.0](https://github.com/cisagov/cyhy-db/releases/tag/v1.0.0), 4 days ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
-- [cisagov/cyhy-config](https://github.com/cisagov/cyhy-config) ([v1.0.0](https://github.com/cisagov/cyhy-config/releases/tag/v1.0.0), 2 weeks ago) - A library to locate, parse, and validate Cyber Hygiene configuration files
+- [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 1 day ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.6](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.6), 4 days ago) - reusable workflows for GitHub Actions
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.0.0), 5 days ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
+- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.0.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.0.0), 5 days ago)
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v1.0.0](https://github.com/cisagov/cyhy-db/releases/tag/v1.0.0), 5 days ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
