@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (6 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database (1 week ago)
 - [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library (1 week ago)
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 3 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.6](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.6), 6 days ago) - reusable workflows for GitHub Actions
+- [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 4 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.6](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.6), 1 week ago) - reusable workflows for GitHub Actions
 - [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.0.0), 1 week ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
 - [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.0.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.0.0), 1 week ago)
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v1.0.0](https://github.com/cisagov/cyhy-db/releases/tag/v1.0.0), 1 week ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
