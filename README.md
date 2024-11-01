@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.0.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.0.0), 2 days ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
-- [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 6 days ago)
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.0.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.0.0), 3 days ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.0.6](https://github.com/felddy/reusable-workflows/releases/tag/v2.0.6), 1 week ago) - reusable workflows for GitHub Actions
 - [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.0.0), 1 week ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
 - [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.0.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.0.0), 1 week ago)
