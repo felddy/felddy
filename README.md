@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 2 days ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 3 days ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.332.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.332.0), 2 weeks ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.0](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.0), 2 weeks ago) - reusable workflows for GitHub Actions
 - [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 1 month ago) - A Lambda to import Known Exploited Vulnerabilities (KEV) data into a Cyber Hygiene database
