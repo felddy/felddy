@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (5 days ago)
+- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (6 days ago)
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) -  (2 weeks ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 weeks ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 3 days ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 4 days ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 3 weeks ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.332.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.332.0), 1 month ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.0](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.0), 1 month ago) - reusable workflows for GitHub Actions
