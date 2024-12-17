@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 6 days ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 1 week ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 3 weeks ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.332.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.332.0), 1 month ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.0](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.0), 1 month ago) - reusable workflows for GitHub Actions
