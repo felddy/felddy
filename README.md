@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (1 week ago)
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) -  (3 weeks ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 weeks ago)
@@ -19,7 +19,7 @@
 #### 🚀 Latest releases I've contributed to
 
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 1 week ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 3 weeks ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 4 weeks ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.332.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.332.0), 1 month ago) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.0](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.0), 1 month ago) - reusable workflows for GitHub Actions
 - [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 1 month ago) - A Lambda to import Known Exploited Vulnerabilities (KEV) data into a Cyber Hygiene database
