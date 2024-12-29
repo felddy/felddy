@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 days ago)
-- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (2 days ago)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (2 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (5 days ago)
-- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) -  (1 month ago)
+- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (1 day ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
+- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (3 days ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant)
+- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant
 - [felddy/3d-printing](https://github.com/felddy/3d-printing) - A collection of 3d printing models
 - [felddy/pdf-access](https://github.com/felddy/pdf-access)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.0.0](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.0.0), 1 day ago) - Publishes WeeWX weather stations as devices in Home Assistant
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.334.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.334.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 2 weeks ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 1 month ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.0](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.0), 1 month ago) - reusable workflows for GitHub Actions
-- [cisagov/cyhy-kevsync-lambda](https://github.com/cisagov/cyhy-kevsync-lambda) ([v1.0.0](https://github.com/cisagov/cyhy-kevsync-lambda/releases/tag/v1.0.0), 2 months ago) - A Lambda to import Known Exploited Vulnerabilities (KEV) data into a Cyber Hygiene database
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
