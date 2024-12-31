@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (2 days ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 days ago)
-- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (4 days ago)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (4 days ago)
+- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (3 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (5 days ago)
+- [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (5 days ago)
+- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0), 1 day ago) - Docker container for WeeWx weather station server
-- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.0.0](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.0.0), 2 days ago) - Publishes WeeWX weather stations as devices in Home Assistant
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0&#43;r1](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0%2Br1), 1 day ago) - Docker container for WeeWx weather station server
+- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.0.0](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.0.0), 3 days ago) - Publishes WeeWX weather stations as devices in Home Assistant
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.334.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.334.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 2 weeks ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 3 weeks ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 1 month ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 
 #### ❤️ Latest sponsors
