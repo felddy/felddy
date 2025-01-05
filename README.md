@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (6 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (1 week ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0&#43;r1](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0%2Br1), 5 days ago) - Docker container for WeeWx weather station server
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0&#43;r1](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0%2Br1), 6 days ago) - Docker container for WeeWx weather station server
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.0.0](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.0.0), 1 week ago) - Publishes WeeWX weather stations as devices in Home Assistant
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.334.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.334.0), 2 weeks ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([v0.15.0](https://github.com/Aircoookie/WLED/releases/tag/v0.15.0), 3 weeks ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
