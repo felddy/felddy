@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [felddy/pfsense-voucher](https://github.com/felddy/pfsense-voucher) -  (1 day ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 weeks ago)
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (3 weeks ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 weeks ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (3 weeks ago)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images (3 weeks ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [felddy/pfsense-voucher](https://github.com/felddy/pfsense-voucher)
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant
 - [felddy/3d-printing](https://github.com/felddy/3d-printing) - A collection of 3d printing models
 - [felddy/pdf-access](https://github.com/felddy/pdf-access)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals)
-- [felddy/npm-hang-test](https://github.com/felddy/npm-hang-test) - Testing failure of GitHub Actions builds of s390x images
 
 #### 🚀 Latest releases I've contributed to
 
@@ -22,7 +22,7 @@
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0&#43;r1](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0%2Br1), 3 weeks ago) - Docker container for WeeWx weather station server
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.0.0](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.0.0), 3 weeks ago) - Publishes WeeWX weather stations as devices in Home Assistant
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.334.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.334.0), 1 month ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 1 month ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.1.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.1.0), 2 months ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (3 years ago)
