@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisagov/dependabot-automerge-test](https://github.com/cisagov/dependabot-automerge-test) -  (3 days ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (4 days ago)
-- [felddy/pfsense-voucher](https://github.com/felddy/pfsense-voucher) -  (5 days ago)
+- [cisagov/dependabot-automerge-test](https://github.com/cisagov/dependabot-automerge-test) -  (4 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (5 days ago)
+- [felddy/pfsense-voucher](https://github.com/felddy/pfsense-voucher) -  (6 days ago)
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (4 weeks ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 month ago)
 
