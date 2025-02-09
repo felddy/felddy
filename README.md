@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 day ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (4 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (3 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (5 days ago)
 - [cisagov/dependabot-automerge-test](https://github.com/cisagov/dependabot-automerge-test) -  (2 weeks ago)
 - [felddy/pfsense-voucher](https://github.com/felddy/pfsense-voucher) -  (2 weeks ago)
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/action-apb](https://github.com/cisagov/action-apb) ([v2.0.0](https://github.com/cisagov/action-apb/releases/tag/v2.0.0), 1 day ago) - GitHub Action to trigger repository rebuilds that haven&#39;t occurred recently.
-- [cisagov/awssh](https://github.com/cisagov/awssh) ([v2.0.0](https://github.com/cisagov/awssh/releases/tag/v2.0.0), 1 day ago) - Tool to simplify secure shell connections over AWS simple systems manager.
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) ([nightly](https://github.com/Aircoookie/WLED/releases/tag/nightly), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.335.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.335.0), 2 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.1](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.1), 3 days ago) - reusable workflows for GitHub Actions
+- [cisagov/action-apb](https://github.com/cisagov/action-apb) ([v2.0.0](https://github.com/cisagov/action-apb/releases/tag/v2.0.0), 2 days ago) - GitHub Action to trigger repository rebuilds that haven&#39;t occurred recently.
+- [cisagov/awssh](https://github.com/cisagov/awssh) ([v2.0.0](https://github.com/cisagov/awssh/releases/tag/v2.0.0), 2 days ago) - Tool to simplify secure shell connections over AWS simple systems manager.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.335.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.335.0), 3 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.1](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.1), 4 days ago) - reusable workflows for GitHub Actions
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (4 years ago)
