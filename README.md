@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (4 days ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [cisagov/dependabot-automerge-test](https://github.com/cisagov/dependabot-automerge-test) -  (4 weeks ago)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [wled/WLED](https://github.com/wled/WLED) ([nightly](https://github.com/wled/WLED/releases/tag/nightly), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.336.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.336.0), 4 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [cisagov/ioc-scanner](https://github.com/cisagov/ioc-scanner) ([v3.0.0](https://github.com/cisagov/ioc-scanner/releases/tag/v3.0.0), 6 days ago) - Search a filesystem for indicators of compromise (IoC).
-- [cisagov/vpn-config-gen](https://github.com/cisagov/vpn-config-gen) ([v2.0.0](https://github.com/cisagov/vpn-config-gen/releases/tag/v2.0.0), 6 days ago) - Update OpenVPN configurations file routes.
-- [cisagov/lcgit](https://github.com/cisagov/lcgit) ([v2.0.0](https://github.com/cisagov/lcgit/releases/tag/v2.0.0), 1 week ago) - A pythonic Linear Congruential Generator iterator
+- [cisagov/trustymail](https://github.com/cisagov/trustymail) ([v1.1.0](https://github.com/cisagov/trustymail/releases/tag/v1.1.0), 1 day ago) - Scan domains and return data based on trustworthy email best practices
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.1.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.1.0), 1 day ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
+- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.1.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.1.0), 1 day ago)
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.2.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.2.0), 1 day ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v1.1.0](https://github.com/cisagov/cyhy-db/releases/tag/v1.1.0), 1 day ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (4 years ago)
