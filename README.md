@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 days ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (6 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (3 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 - [cisagov/dependabot-automerge-test](https://github.com/cisagov/dependabot-automerge-test) -  (1 month ago)
 - [felddy/pfsense-voucher](https://github.com/felddy/pfsense-voucher) -  (1 month ago)
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [wled/WLED](https://github.com/wled/WLED) ([nightly](https://github.com/wled/WLED/releases/tag/nightly), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [cisagov/trustymail](https://github.com/cisagov/trustymail) ([v1.1.0](https://github.com/cisagov/trustymail/releases/tag/v1.1.0), 3 days ago) - Scan domains and return data based on trustworthy email best practices
-- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.1.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.1.0), 3 days ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
-- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.1.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.1.0), 3 days ago)
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.2.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.2.0), 3 days ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [wled/WLED](https://github.com/wled/WLED) ([v0.15.1.beta2](https://github.com/wled/WLED/releases/tag/v0.15.1.beta2), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+- [cisagov/trustymail](https://github.com/cisagov/trustymail) ([v1.1.0](https://github.com/cisagov/trustymail/releases/tag/v1.1.0), 4 days ago) - Scan domains and return data based on trustworthy email best practices
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.1.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.1.0), 4 days ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
+- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.1.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.1.0), 4 days ago)
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.2.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.2.0), 4 days ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (4 years ago)
