@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (4 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (5 days ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [cisagov/dependabot-automerge-test](https://github.com/cisagov/dependabot-automerge-test) -  (1 month ago)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1-rc.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1-rc.1), 1 day ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.337.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.337.0), 3 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [cisagov/clamav-report](https://github.com/cisagov/clamav-report) ([v1.0.0](https://github.com/cisagov/clamav-report/releases/tag/v1.0.0), 4 days ago) - Generate reports from groups of hosts running ClamAV
-- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v2.0.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v2.0.0), 4 days ago) - Manage CyHy Operators in the production CyHy environment.
-- [cisagov/gophish-tools](https://github.com/cisagov/gophish-tools) ([v1.0.0](https://github.com/cisagov/gophish-tools/releases/tag/v1.0.0), 4 days ago) - Helpful tools for interacting with a GoPhish phishing instance
+- [cisagov/admiral](https://github.com/cisagov/admiral) ([v2.0.1](https://github.com/cisagov/admiral/releases/tag/v2.0.1), 1 day ago) - Distributed certificate transparency log harvester
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1-rc.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1-rc.1), 2 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.337.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.337.0), 4 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [cisagov/clamav-report](https://github.com/cisagov/clamav-report) ([v1.0.0](https://github.com/cisagov/clamav-report/releases/tag/v1.0.0), 5 days ago) - Generate reports from groups of hosts running ClamAV
+- [cisagov/manage-cyhy-ops](https://github.com/cisagov/manage-cyhy-ops) ([v2.0.0](https://github.com/cisagov/manage-cyhy-ops/releases/tag/v2.0.0), 5 days ago) - Manage CyHy Operators in the production CyHy environment.
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (4 years ago)
