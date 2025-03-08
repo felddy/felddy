@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/pca-gophish-composition](https://github.com/cisagov/pca-gophish-composition) ([v1.0.0](https://github.com/cisagov/pca-gophish-composition/releases/tag/v1.0.0), 2 days ago) - Phishing campaign docker composition for Gophish
-- [cisagov/gophish-tools](https://github.com/cisagov/gophish-tools) ([v1.0.1](https://github.com/cisagov/gophish-tools/releases/tag/v1.0.1), 2 days ago) - Helpful tools for interacting with a GoPhish phishing instance
-- [cisagov/admiral](https://github.com/cisagov/admiral) ([v2.0.1](https://github.com/cisagov/admiral/releases/tag/v2.0.1), 3 days ago) - Distributed certificate transparency log harvester
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1-rc.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1-rc.1), 4 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.337.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.337.0), 6 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [cisagov/pca-gophish-composition](https://github.com/cisagov/pca-gophish-composition) ([v1.0.0](https://github.com/cisagov/pca-gophish-composition/releases/tag/v1.0.0), 3 days ago) - Phishing campaign docker composition for Gophish
+- [cisagov/gophish-tools](https://github.com/cisagov/gophish-tools) ([v1.0.1](https://github.com/cisagov/gophish-tools/releases/tag/v1.0.1), 3 days ago) - Helpful tools for interacting with a GoPhish phishing instance
+- [cisagov/admiral](https://github.com/cisagov/admiral) ([v2.0.1](https://github.com/cisagov/admiral/releases/tag/v2.0.1), 4 days ago) - Distributed certificate transparency log harvester
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1-rc.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1-rc.1), 5 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.337.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.337.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (4 years ago)
