@@ -19,8 +19,8 @@
 #### 🚀 Latest releases I've contributed to
 
 - [wled/WLED](https://github.com/wled/WLED) ([nightly](https://github.com/wled/WLED/releases/tag/nightly), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
-- [cisagov/pca-gophish-composition](https://github.com/cisagov/pca-gophish-composition) ([v1.0.0](https://github.com/cisagov/pca-gophish-composition/releases/tag/v1.0.0), 6 days ago) - Phishing campaign docker composition for Gophish
-- [cisagov/gophish-tools](https://github.com/cisagov/gophish-tools) ([v1.0.1](https://github.com/cisagov/gophish-tools/releases/tag/v1.0.1), 6 days ago) - Helpful tools for interacting with a GoPhish phishing instance
+- [cisagov/pca-gophish-composition](https://github.com/cisagov/pca-gophish-composition) ([v1.0.0](https://github.com/cisagov/pca-gophish-composition/releases/tag/v1.0.0), 1 week ago) - Phishing campaign docker composition for Gophish
+- [cisagov/gophish-tools](https://github.com/cisagov/gophish-tools) ([v1.0.1](https://github.com/cisagov/gophish-tools/releases/tag/v1.0.1), 1 week ago) - Helpful tools for interacting with a GoPhish phishing instance
 - [cisagov/admiral](https://github.com/cisagov/admiral) ([v2.0.1](https://github.com/cisagov/admiral/releases/tag/v2.0.1), 1 week ago) - Distributed certificate transparency log harvester
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1-rc.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1-rc.1), 1 week ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
 
