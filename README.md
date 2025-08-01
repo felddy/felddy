@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 month ago)
 - [fluxcd/website](https://github.com/fluxcd/website) - The Flux website and user documentation (1 month ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 month ago)
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [wled/WLED](https://github.com/wled/WLED) ([nightly](https://github.com/wled/WLED/releases/tag/nightly), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1-rc.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1-rc.1), 3 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
-- [cisagov/admiral](https://github.com/cisagov/admiral) ([v2.1.1](https://github.com/cisagov/admiral/releases/tag/v2.1.1), 1 week ago) - Distributed certificate transparency log harvester
-- [cisagov/action-apb-dashboard](https://github.com/cisagov/action-apb-dashboard) ([v2.0.1](https://github.com/cisagov/action-apb-dashboard/releases/tag/v2.0.1), 3 weeks ago)
-- [cisagov/action-apb](https://github.com/cisagov/action-apb) ([v2.1.0](https://github.com/cisagov/action-apb/releases/tag/v2.1.0), 3 weeks ago) - GitHub Action to trigger repository rebuilds that haven&#39;t occurred recently.
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.1.1](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.1.1), 1 day ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v1.2.1](https://github.com/cisagov/cyhy-cvesync/releases/tag/v1.2.1), 1 day ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [wled/WLED](https://github.com/wled/WLED) ([v0.15.1](https://github.com/wled/WLED/releases/tag/v0.15.1), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.0.0](https://github.com/cisagov/cyhy-db/releases/tag/v2.0.0), 1 day ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1-rc.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1-rc.1), 4 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (4 years ago)
