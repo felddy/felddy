@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (6 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 week ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 month ago)
 - [fluxcd/website](https://github.com/fluxcd/website) - The Flux website and user documentation (2 months ago)
@@ -20,8 +20,8 @@
 
 - [wled/WLED](https://github.com/wled/WLED) ([nightly](https://github.com/wled/WLED/releases/tag/nightly), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.347.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.347.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.2](https://github.com/cisagov/pshtt/releases/tag/v0.7.2), 2 weeks ago) - Scan domains and return data based on HTTPS best practices
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1), 2 weeks ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.2](https://github.com/cisagov/pshtt/releases/tag/v0.7.2), 3 weeks ago) - Scan domains and return data based on HTTPS best practices
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1), 3 weeks ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
 - [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.1.1](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.1.1), 3 weeks ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
 
 #### ❤️ Latest sponsors
