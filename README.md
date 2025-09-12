@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [wled/WLED](https://github.com/wled/WLED) ([nightly](https://github.com/wled/WLED/releases/tag/nightly), 1 day ago) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v2.0.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v2.0.0), 1 week ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.348.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.348.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.2](https://github.com/cisagov/pshtt/releases/tag/v0.7.2), 1 month ago) - Scan domains and return data based on HTTPS best practices
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1), 1 month ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.1.1](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.1.1), 1 month ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
 
 #### ❤️ Latest sponsors
 - [Shane Frasier](https://github.com/jsf9k) (4 years ago)
