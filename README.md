@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (5 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (5 days ago)
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library (2 weeks ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (6 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (6 days ago)
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library (3 weeks ago)
 - [fluxcd/website](https://github.com/fluxcd/website) - The Flux website and user documentation (3 months ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v2.0.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v2.0.0), 1 week ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v2.0.0](https://github.com/cisagov/cyhy-cvesync/releases/tag/v2.0.0), 2 weeks ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.348.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.348.0), 2 weeks ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/pshtt](https://github.com/cisagov/pshtt) ([v0.7.2](https://github.com/cisagov/pshtt/releases/tag/v0.7.2), 1 month ago) - Scan domains and return data based on HTTPS best practices
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v2.0.1](https://github.com/cisagov/guacscanner/releases/tag/v2.0.1), 1 month ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
