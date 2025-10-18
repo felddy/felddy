@@ -18,9 +18,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.2.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.2.0), 1 day ago)
-- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.2.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.2.0), 1 day ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.0](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.0), 1 day ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
+- [cisagov/cyhy-logging](https://github.com/cisagov/cyhy-logging) ([v1.2.0](https://github.com/cisagov/cyhy-logging/releases/tag/v1.2.0), 2 days ago)
+- [cisagov/cyhy-kevsync](https://github.com/cisagov/cyhy-kevsync) ([v1.2.0](https://github.com/cisagov/cyhy-kevsync/releases/tag/v1.2.0), 2 days ago) - Cyber Hygiene known exploited vulnerability (KEV) synchronization Python library
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.0](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.0), 2 days ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.350.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.350.0), 2 weeks ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/gh-skeleton](https://github.com/cisagov/gh-skeleton) ([v1.0.1](https://github.com/cisagov/gh-skeleton/releases/tag/v1.0.1), 6 months ago) - This extension for the gh CLI provides the ability to easily start new projects from our existing library of skeleton repositories.
 
