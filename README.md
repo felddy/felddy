@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.350.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.350.0), 4 weeks ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.1](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.1), 8 months ago) - reusable workflows for GitHub Actions
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.350.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.350.0), 1 month ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.1](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.1), 9 months ago) - reusable workflows for GitHub Actions
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0&#43;r1](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0%2Br1), 10 months ago) - Docker container for WeeWx weather station server
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.0.0](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.0.0), 10 months ago) - Publishes WeeWX weather stations as devices in Home Assistant
 
