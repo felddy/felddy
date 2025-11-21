@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (6 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 week ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 month ago)
 - [fluxcd/website](https://github.com/fluxcd/website) - The Flux website and user documentation (5 months ago)
 - [felddy/pdf-access](https://github.com/felddy/pdf-access) -  (6 months ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.351.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.351.0), 6 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.351.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.351.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v2.1.1](https://github.com/felddy/reusable-workflows/releases/tag/v2.1.1), 9 months ago) - reusable workflows for GitHub Actions
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0&#43;r1](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0%2Br1), 10 months ago) - Docker container for WeeWx weather station server
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.0.0](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.0.0), 10 months ago) - Publishes WeeWX weather stations as devices in Home Assistant
