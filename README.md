@@ -20,7 +20,7 @@
 
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v2.1.1](https://github.com/cisagov/cyhy-cvesync/releases/tag/v2.1.1), 1 month ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v3.0.0](https://github.com/felddy/reusable-workflows/releases/tag/v3.0.0), 1 month ago) - reusable workflows for GitHub Actions
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.351.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.351.0), 1 month ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v13.351.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v13.351.0), 2 months ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.1.0&#43;r1](https://github.com/felddy/weewx-docker/releases/tag/v5.1.0%2Br1), 1 year ago) - Docker container for WeeWx weather station server
 
 #### ❤️ Latest sponsors
