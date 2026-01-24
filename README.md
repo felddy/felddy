@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals (1 day ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 weeks ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 month ago)
-- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library (4 months ago)
-- [fluxcd/website](https://github.com/fluxcd/website) - The Flux website and user documentation (7 months ago)
+- [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library (5 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -14,7 +14,7 @@
 - [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant
 - [felddy/3d-printing](https://github.com/felddy/3d-printing) - A collection of 3d printing models
 - [felddy/pdf-access](https://github.com/felddy/pdf-access)
-- [felddy/performance-goals](https://github.com/felddy/performance-goals)
+- [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals
 
 #### 🚀 Latest releases I've contributed to
 
