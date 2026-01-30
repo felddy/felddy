@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
-- [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals (6 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 days ago)
+- [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals (1 week ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 weeks ago)
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library (5 months ago)
 
