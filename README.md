@@ -6,7 +6,7 @@
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [felddy/runner-test](https://github.com/felddy/runner-test) - Testing GitHub ARC (2 weeks ago)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals (1 month ago)
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 month ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
