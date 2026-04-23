@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (3 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
-- [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals (4 weeks ago)
+- [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals (1 month ago)
 - [felddy/runner-test](https://github.com/felddy/runner-test) - Testing GitHub ARC (2 months ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 months ago)
 
