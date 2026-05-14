@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 day ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database (6 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database (1 week ago)
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors. (1 month ago)
 - [felddy/performance-goals](https://github.com/felddy/performance-goals) - Personal Performance Goals (1 month ago)
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 2 days ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.361.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.361.0), 6 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 3 days ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.361.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.361.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v4.2.0](https://github.com/felddy/reusable-workflows/releases/tag/v4.2.0), 1 week ago) - reusable workflows for GitHub Actions
 - [cisagov/cyhy-cvesync](https://github.com/cisagov/cyhy-cvesync) ([v2.1.2](https://github.com/cisagov/cyhy-cvesync/releases/tag/v2.1.2), 2 weeks ago) - Cyber Hygiene Common Vulnerabilities and Exposures (CVE) synchronization Python library
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.13.0](https://github.com/markusressel/fan2go/releases/tag/0.13.0), 2 months ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
