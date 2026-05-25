@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
-- [felddy/cyhy-commander](https://github.com/felddy/cyhy-commander) -  (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (3 days ago)
+- [felddy/cyhy-commander](https://github.com/felddy/cyhy-commander) -  (3 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (5 days ago)
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections. (1 week ago)
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database (2 weeks ago)
 
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.14.0](https://github.com/markusressel/fan2go/releases/tag/0.14.0), 2 days ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.363.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.363.0), 2 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.2-rc.4](https://github.com/cisagov/guacscanner/releases/tag/v3.0.2-rc.4), 3 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 1 week ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
+- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.14.0](https://github.com/markusressel/fan2go/releases/tag/0.14.0), 3 days ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.363.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.363.0), 3 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.2-rc.4](https://github.com/cisagov/guacscanner/releases/tag/v3.0.2-rc.4), 4 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 2 weeks ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v4.2.0](https://github.com/felddy/reusable-workflows/releases/tag/v4.2.0), 2 weeks ago) - reusable workflows for GitHub Actions
 
 #### ❤️ Latest sponsors
