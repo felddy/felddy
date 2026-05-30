@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.2](https://github.com/cisagov/guacscanner/releases/tag/v3.0.2), 2 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.2](https://github.com/cisagov/guacscanner/releases/tag/v3.0.2), 3 days ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.14.0](https://github.com/markusressel/fan2go/releases/tag/0.14.0), 1 week ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.363.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.363.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 2 weeks ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
