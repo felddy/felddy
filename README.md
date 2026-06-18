@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
-- [felddy/cyhy-commander](https://github.com/felddy/cyhy-commander) -  (1 week ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 weeks ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 days ago)
+- [felddy/cyhy-commander](https://github.com/felddy/cyhy-commander) -  (2 weeks ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 weeks ago)
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections. (1 month ago)
 
@@ -18,9 +18,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.364.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.364.0), today) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.2](https://github.com/cisagov/guacscanner/releases/tag/v3.0.2), 3 weeks ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.14.0](https://github.com/markusressel/fan2go/releases/tag/0.14.0), 3 weeks ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.363.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.363.0), 3 weeks ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 1 month ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v4.2.0](https://github.com/felddy/reusable-workflows/releases/tag/v4.2.0), 1 month ago) - reusable workflows for GitHub Actions
 
