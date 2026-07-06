@@ -25,7 +25,7 @@
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 1 month ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 
 #### ❤️ Latest sponsors
-- [Deniz Laun](https://github.com/Hydroxi) (1 week ago)
+- [Deniz Laun](https://github.com/Hydroxi) (2 weeks ago)
 - [jfoxwoosh](https://github.com/jdancouga) (8 months ago)
 - [Shane Frasier](https://github.com/jsf9k) (5 years ago)
 
