@@ -22,7 +22,7 @@
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.4.0](https://github.com/felddy/weewx-docker/releases/tag/v5.4.0), 2 weeks ago) - Docker container for WeeWx weather station server
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.364.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.364.0), 3 weeks ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.2](https://github.com/cisagov/guacscanner/releases/tag/v3.0.2), 1 month ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 1 month ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 2 months ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 
 #### ❤️ Latest sponsors
 - [Deniz Laun](https://github.com/Hydroxi) (2 weeks ago)
