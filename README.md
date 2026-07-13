@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 weeks ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 weeks ago)
 - [felddy/cyhy-commander](https://github.com/felddy/cyhy-commander) -  (1 month ago)
@@ -25,7 +25,7 @@
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 2 months ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 
 #### ❤️ Latest sponsors
-- [Deniz Laun](https://github.com/Hydroxi) (2 weeks ago)
+- [Deniz Laun](https://github.com/Hydroxi) (3 weeks ago)
 - [jfoxwoosh](https://github.com/jdancouga) (8 months ago)
 - [Shane Frasier](https://github.com/jsf9k) (5 years ago)
 
