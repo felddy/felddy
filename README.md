@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (4 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (5 days ago)
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 week ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 month ago)
 - [felddy/cyhy-commander](https://github.com/felddy/cyhy-commander) -  (1 month ago)
@@ -18,15 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.365.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.365.0), 4 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.15.0](https://github.com/markusressel/fan2go/releases/tag/0.15.0), 3 weeks ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
+- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.3](https://github.com/cisagov/guacscanner/releases/tag/v3.0.3), 1 day ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.365.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.365.0), 5 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.15.0](https://github.com/markusressel/fan2go/releases/tag/0.15.0), 4 weeks ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.4.0](https://github.com/felddy/weewx-docker/releases/tag/v5.4.0), 1 month ago) - Docker container for WeeWx weather station server
-- [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.2](https://github.com/cisagov/guacscanner/releases/tag/v3.0.2), 1 month ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 2 months ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 
 #### ❤️ Latest sponsors
 - [Deniz Laun](https://github.com/Hydroxi) (1 month ago)
-- [jfoxwoosh](https://github.com/jdancouga) (9 months ago)
 - [Shane Frasier](https://github.com/jsf9k) (5 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
