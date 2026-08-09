@@ -22,7 +22,7 @@
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.365.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.365.0), 3 weeks ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.15.0](https://github.com/markusressel/fan2go/releases/tag/0.15.0), 1 month ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.4.0](https://github.com/felddy/weewx-docker/releases/tag/v5.4.0), 1 month ago) - Docker container for WeeWx weather station server
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 2 months ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.2](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.2), 3 months ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 
 #### ❤️ Latest sponsors
 - [Deniz Laun](https://github.com/Hydroxi) (1 month ago)
