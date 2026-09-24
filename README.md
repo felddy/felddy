@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (4 days ago)
 - [cisagov/rerere-cache](https://github.com/cisagov/rerere-cache) - git-rerere cache (2 weeks ago)
 - [cisagov/cool](https://github.com/cisagov/cool) -  (2 weeks ago)
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (3 months ago)
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.368.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.368.0), 3 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.3](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.3), 4 weeks ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.368.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.368.0), 4 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.3](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.3), 1 month ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.3](https://github.com/cisagov/guacscanner/releases/tag/v3.0.3), 2 months ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
 - [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.15.0](https://github.com/markusressel/fan2go/releases/tag/0.15.0), 3 months ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.4.0](https://github.com/felddy/weewx-docker/releases/tag/v5.4.0), 3 months ago) - Docker container for WeeWx weather station server
