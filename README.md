@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (1 day ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (1 day ago)
-- [cisagov/wifi-guest-autorequest](https://github.com/cisagov/wifi-guest-autorequest) -  (2 weeks ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
+- [cisagov/wifi-guest-autorequest](https://github.com/cisagov/wifi-guest-autorequest) - Automates a sponsored-guest WiFi captive portal on macOS (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server. (2 days ago)
 - [cisagov/.github](https://github.com/cisagov/.github) - Default community health files for cisagov (2 weeks ago)
-- [cisagov/rerere-cache](https://github.com/cisagov/rerere-cache) - git-rerere cache (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v5.0.0-rc2](https://github.com/felddy/reusable-workflows/releases/tag/v5.0.0-rc2), 1 day ago) - reusable workflows for GitHub Actions
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.369.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.369.0), 4 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v5.0.0-rc2](https://github.com/felddy/reusable-workflows/releases/tag/v5.0.0-rc2), 2 days ago) - reusable workflows for GitHub Actions
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.369.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.369.0), 5 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [cisagov/.github](https://github.com/cisagov/.github) ([v1.0.2](https://github.com/cisagov/.github/releases/tag/v1.0.2), 2 weeks ago) - Default community health files for cisagov
 - [cisagov/cyhy-db](https://github.com/cisagov/cyhy-db) ([v2.1.3](https://github.com/cisagov/cyhy-db/releases/tag/v2.1.3), 1 month ago) - An object relational mapper (ORM) for the Cyber Hygiene (CyHy) database
 - [cisagov/guacscanner](https://github.com/cisagov/guacscanner) ([v3.0.3](https://github.com/cisagov/guacscanner/releases/tag/v3.0.3), 3 months ago) - Scan for EC2 instances added (removed) from a VPC and create (destroy) the corresponding Guacamole connections.
