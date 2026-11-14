@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dhs-ncats/sandbox-ansible-role-banner](https://github.com/dhs-ncats/sandbox-ansible-role-banner) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/ansible-role-banner stand-in); safe to delete (1 day ago)
-- [dhs-ncats/gh-skeleton](https://github.com/dhs-ncats/gh-skeleton) - SANDBOX — gh skeleton extension &#43; lineage sync subcommands (incubating; upstream: cisagov/gh-skeleton) (1 day ago)
-- [dhs-ncats/lineage-playground](https://github.com/dhs-ncats/lineage-playground) - SANDBOX — lineage sync playground kit: scripts &#43; docs to kick the tires (start at the README) (1 day ago)
-- [dhs-ncats/sandbox-skeleton-ansible-role](https://github.com/dhs-ncats/sandbox-skeleton-ansible-role) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-ansible-role stand-in); safe to delete (1 day ago)
-- [dhs-ncats/sandbox-skeleton-generic](https://github.com/dhs-ncats/sandbox-skeleton-generic) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-generic stand-in); safe to delete (1 day ago)
+- [dhs-ncats/sandbox-skeleton-generic](https://github.com/dhs-ncats/sandbox-skeleton-generic) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-generic stand-in); safe to delete (2 days ago)
+- [dhs-ncats/lineage-playground](https://github.com/dhs-ncats/lineage-playground) - SANDBOX — lineage sync playground kit: scripts &#43; docs to kick the tires (start at the README) (2 days ago)
+- [dhs-ncats/gh-skeleton](https://github.com/dhs-ncats/gh-skeleton) - SANDBOX — gh skeleton extension &#43; lineage sync subcommands (incubating; upstream: cisagov/gh-skeleton) (2 days ago)
+- [dhs-ncats/sandbox-skeleton-ansible-role](https://github.com/dhs-ncats/sandbox-skeleton-ansible-role) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-ansible-role stand-in); safe to delete (2 days ago)
+- [dhs-ncats/sandbox-ansible-role-banner](https://github.com/dhs-ncats/sandbox-ansible-role-banner) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/ansible-role-banner stand-in); safe to delete (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.16.0](https://github.com/markusressel/fan2go/releases/tag/0.16.0), 1 day ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
+- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.16.0](https://github.com/markusressel/fan2go/releases/tag/0.16.0), 2 days ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v5.6.0](https://github.com/felddy/reusable-workflows/releases/tag/v5.6.0), 1 week ago) - reusable workflows for GitHub Actions
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.370.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.370.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.5.6](https://github.com/felddy/weewx-docker/releases/tag/v5.5.6), 1 week ago) - Docker container for WeeWx weather station server
