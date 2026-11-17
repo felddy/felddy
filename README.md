@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dhs-ncats/sandbox-skeleton-generic](https://github.com/dhs-ncats/sandbox-skeleton-generic) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-generic stand-in); safe to delete (3 days ago)
-- [dhs-ncats/lineage-playground](https://github.com/dhs-ncats/lineage-playground) - SANDBOX — lineage sync playground kit: scripts &#43; docs to kick the tires (start at the README) (3 days ago)
-- [dhs-ncats/gh-skeleton](https://github.com/dhs-ncats/gh-skeleton) - SANDBOX — gh skeleton extension &#43; lineage sync subcommands (incubating; upstream: cisagov/gh-skeleton) (3 days ago)
-- [dhs-ncats/sandbox-skeleton-ansible-role](https://github.com/dhs-ncats/sandbox-skeleton-ansible-role) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-ansible-role stand-in); safe to delete (3 days ago)
-- [dhs-ncats/sandbox-ansible-role-banner](https://github.com/dhs-ncats/sandbox-ansible-role-banner) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/ansible-role-banner stand-in); safe to delete (3 days ago)
+- [dhs-ncats/gh-skeleton](https://github.com/dhs-ncats/gh-skeleton) - SANDBOX — gh skeleton extension &#43; lineage sync subcommands (incubating; upstream: cisagov/gh-skeleton) (5 days ago)
+- [dhs-ncats/lineage-playground](https://github.com/dhs-ncats/lineage-playground) - SANDBOX — lineage sync playground kit: scripts &#43; docs to kick the tires (start at the README) (5 days ago)
+- [dhs-ncats/sandbox-ansible-role-banner](https://github.com/dhs-ncats/sandbox-ansible-role-banner) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/ansible-role-banner stand-in); safe to delete (5 days ago)
+- [dhs-ncats/sandbox-skeleton-generic](https://github.com/dhs-ncats/sandbox-skeleton-generic) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-generic stand-in); safe to delete (5 days ago)
+- [dhs-ncats/sandbox-skeleton-ansible-role](https://github.com/dhs-ncats/sandbox-skeleton-ansible-role) - SANDBOX — lineage merge-to-publish rehearsal (cisagov/skeleton-ansible-role stand-in); safe to delete (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.16.0](https://github.com/markusressel/fan2go/releases/tag/0.16.0), 3 days ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
+- [cisagov/gatherer](https://github.com/cisagov/gatherer) ([v2.0.9](https://github.com/cisagov/gatherer/releases/tag/v2.0.9), 1 day ago) - Gather domains as a precursor to scanning
+- [markusressel/fan2go](https://github.com/markusressel/fan2go) ([0.16.0](https://github.com/markusressel/fan2go/releases/tag/0.16.0), 5 days ago) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v5.6.0](https://github.com/felddy/reusable-workflows/releases/tag/v5.6.0), 1 week ago) - reusable workflows for GitHub Actions
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.370.0](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.370.0), 1 week ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 - [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.5.6](https://github.com/felddy/weewx-docker/releases/tag/v5.5.6), 1 week ago) - Docker container for WeeWx weather station server
-- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.3.1](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.3.1), 1 week ago) - Publishes WeeWX weather stations as devices in Home Assistant
 
 #### ❤️ Latest sponsors
 - [Deniz Laun](https://github.com/Hydroxi) (4 months ago)
