@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (1 day ago)
-- [cisagov/gatherer](https://github.com/cisagov/gatherer) - Gather domains as a precursor to scanning (1 day ago)
-- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (1 day ago)
-- [felddy/prusa-connect-container](https://github.com/felddy/prusa-connect-container) - Unofficial hardened, multi-arch container images for Prusa Connect, built from upstream release sources with SBOMs and SLSA provenance (2 days ago)
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (2 days ago)
+- [felddy/prusa-connect-container](https://github.com/felddy/prusa-connect-container) - Unofficial hardened, multi-arch container images for Prusa Connect, built from upstream release sources with SBOMs and SLSA provenance (1 day ago)
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server (2 days ago)
+- [cisagov/gatherer](https://github.com/cisagov/gatherer) - Gather domains as a precursor to scanning (2 days ago)
+- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) - Publishes WeeWX weather stations as devices in Home Assistant (2 days ago)
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) - reusable workflows for GitHub Actions (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.5.9](https://github.com/felddy/weewx-docker/releases/tag/v5.5.9), 1 day ago) - Docker container for WeeWx weather station server
-- [cisagov/gatherer](https://github.com/cisagov/gatherer) ([v3.0.0-rc.1](https://github.com/cisagov/gatherer/releases/tag/v3.0.0-rc.1), 1 day ago) - Gather domains as a precursor to scanning
-- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v6.0.3](https://github.com/felddy/reusable-workflows/releases/tag/v6.0.3), 2 days ago) - reusable workflows for GitHub Actions
-- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.3.2](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.3.2), 3 days ago) - Publishes WeeWX weather stations as devices in Home Assistant
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.370.1](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.370.1), 4 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) ([v5.5.9](https://github.com/felddy/weewx-docker/releases/tag/v5.5.9), 2 days ago) - Docker container for WeeWx weather station server
+- [cisagov/gatherer](https://github.com/cisagov/gatherer) ([v3.0.0-rc.1](https://github.com/cisagov/gatherer/releases/tag/v3.0.0-rc.1), 2 days ago) - Gather domains as a precursor to scanning
+- [felddy/reusable-workflows](https://github.com/felddy/reusable-workflows) ([v6.0.3](https://github.com/felddy/reusable-workflows/releases/tag/v6.0.3), 3 days ago) - reusable workflows for GitHub Actions
+- [felddy/weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) ([v1.3.2](https://github.com/felddy/weewx-home-assistant/releases/tag/v1.3.2), 4 days ago) - Publishes WeeWX weather stations as devices in Home Assistant
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) ([v14.370.1](https://github.com/felddy/foundryvtt-docker/releases/tag/v14.370.1), 5 days ago) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
 
 #### ❤️ Latest sponsors
 - [Deniz Laun](https://github.com/Hydroxi) (5 months ago)
